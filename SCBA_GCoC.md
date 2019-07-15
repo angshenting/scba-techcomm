@@ -42,7 +42,6 @@ mean the respective Directors so designated by the SCBA for a National Champions
 ## 2.6 Director or Tournament Director
 
 means a Director as defined in the Laws of Duplicate Bridge 2017 appointed by SCBA for a National Championship
-
 ## 2.7 Executive Committee
 
 means the Executive Committee of the SCBA established under the Constitution and By-Laws of the SCBA.
@@ -130,77 +129,46 @@ means the definition of bidding conventions published under that name by the WBF
 
 means the policy, issued by the WBF from time to time and adopted by the APBF, that specifies the APBF’s Policy with regard to Psychic Bidding (see Appendix 3: WBF Psychic Bidding Policy).
 
-## 2.30 WBF Systems Policy
+### 2.30 WBF Systems Policy
 
 means the Policy, issued by the WBF from time to time and adopted by the APBF that regulates the use of Systems in an National Championships Championship (see Appendix 1: WBF Systems Policy and APBF Adoption).
 
-## 2.31 World Standard Card
+### 2.31 World Standard Card
 
 means the Card devised by the WBF and adopted by the APBF for use in specific circumstances defined in the Supplementary Conditions of Contest, copies of which will be available at an National Championships.
 
-## 2.32 Zone
-
-
-means a geographical zone of the WBF and includes any NBO or NBOs representing a Zone.
-
 ## 3. Conditions of Entry
 
-## 3.1 General
+### 3.1 General
 
+All Singapore National Championships are conducted under the auspices of the SCBA and all events designated as National Championships shall be played in accordance with the Laws of Duplicate Bridge 2017. These Conditions of Contest, and any Supplementary Conditions of Contest, supplement the Laws of Duplicate Bridge 2017 as required.
 
-Asia Pacific Bridge Federation Championships & Congress and Asia Cup are conducted under the auspices of the APBF and all events designated as APBF Championships & Congress and Asia Cup shall be played in accordance with the Laws of Duplicate Bridge 2007. These Conditions of Contest, and any Supplementary Conditions of Contest, supplement the Laws of Duplicate Bridge 2007 as required.
+By participating in  Singapore National Championships, all contestants agree that all or part of any event may be filmed, recorded, or otherwise documented or publicised at the discretion of the SCBA. Entry in an National Championships and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championships involved. Furthermore, the offending contestant(s) shall be subject to suspension from participation in any future event conducted under the auspices of the SCBA for such period as the SCBA in its discretion shall determine.
 
-By participating in an National Championships, each NBO and its contestants agree that all or part of any event may be filmed, recorded, or otherwise documented or publicised at the discretion of the APBF. Each NBO agrees that in the interest of promoting goodwill in the world, and for the proper conduct of an National Championships, it shall instruct its contestants that they must compete against all other contestants. Entry in an National Championships and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championships involved. Furthermore, the offending contestant(s) and their NBO shall be subject to suspension from participation in any future event conducted under the auspices of the APBF for such period as the APBF in its discretion shall determine.
+### 3.2 Invitation to Participate
 
-## 3.2 Invitation to Participate
+It is at the discretion of the SCBA Management Committee to refuse to invite any player or non-playing captain whose name has been submitted for participation in A Singapore National Championship. In any such case of refusal, no reason shall be given by SCBA.
 
-Participation in an National Championships is by APBF invitation only. Furthermore, no player shall be eligible to compete unless his name has been submitted in writing by his NBO to the APBF, for invitation by the APBF - see also Section 4.
+### 3.3 Goodwill and Proper Conduct
+All contestants must agree, in the interest of promoting goodwill and for the proper conduct of A Singapore National Championship, to compete against all other contestants. Entry in an National Championships and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championships involved. Furthermore, the offending contestant(s) shall be subject to suspension from participation in any future event conducted under the auspices of the SCBA for such period as the SCBA in its discretion shall determine.
 
 ## 4. Eligibility
 
 ## 4.1 General
-To be eligible for participation in an National Championships a competitor must comply with the Olympic Charter as well as with the rules of the APBF, and must be entered by his NBO. He must notably respect the spirit of fair play and ethics, and behave accordingly.
-
-## 4.2 Credentials Committee
-
-
-The APBF Executive Committee will be the Credentials Committee of the National Championships, whose functions shall be (subject to these Conditions)
-a) to determine all questions relating to the rights and eligibility of players and non-playing captains whose names have been submitted by a NBO for invitation to compete in an National Championships, taking into account the reports (if any) received from NBOs regarding previous proceedings involving suspension of or disciplinary proceedings against players under their jurisdiction. The names of players and non-playing captains submitted by the NBOs for invitation to an National Championships must be transmitted to the President, or his designee, in writing, as prescribed by the relevant Supplementary Conditions of Contest;
-b) in its discretion, to refuse to invite any player or non-playing captain whose name has been submitted for invitation by a NBO, as aforesaid, to participate in an National Championships. In any such case of refusal, the Credentials Committee shall give no reason.
-
-## 4.3 Eligibility Requirements
-
-
-The Credentials Committee must ensure that each nominated contestant
-satisfies the birth and residence requirements of the NBO nominating him
-belongs as follows:
-
-Except for those players being nominated for participation in any APBF Youth Championship or Transnational Event (as defined by the Executive Committee), to determine that any competitor in an APBF Tournament must be a national of the country of the NBO entering him for participation, or the player has been a resident in the NBO concerned during three years out of the five years immediately preceding the date of the Tournament, or the player has lived six months immediately preceding the Tournament in the NBO concerned, subject to the following:
-i) If a competitor is a national of two or more countries at the same time, he may represent either one of them, as he may elect.
-ii) If a competitor has represented one country in an APBF Championship or WBF Tournament and has changed his nationality or acquired a new nationality, he shall not participate in an APBF Championship to represent his new country until after three years of such change or acquisition. This period may be reduced or even cancelled upon the request of the NBO with the approval of the APBF Executive Committee.
-iii) If a new NBO is affiliated as a member of APBF, a competitor may continue to represent the country to which he belongs or belonged. However, he may, if he prefers, choose to represent his country or be entered in an APBF Championship by his new NBO if one exists. This particular choice may be made only once. No male shall be a playing member of, or a substitute player in, a team or pair competing in a women’s event.
+To be eligible for participation in a National Championship, a competitor must comply with the Olympic Charter as well as with the rules of the APBF, and must be entered by his NBO. He must notably respect the spirit of fair play and ethics, and behave accordingly.
 
 ## 4.4 Over-Riding Eligibility Regulations
-
 
 The Supplementary Conditions for a specific event may specify over-riding Eligibility Regulations based on residency qualifications which prevail for that particular championship or congress.
 
 ## 4.5 Eligibility for Youth Players
 
 
-As a general rule, players competing in Junior and Girls events shall be aged
-25 years or younger in the calendar year in which the competition is to take
-place. Players competing in Youngsters events shall be aged 20 years or
-younger in the calendar year in which the competition is to take place. For
-example: throughout 2017, Juniors and Girls are players born in 1992 or later,
-Youngsters are players born in 1997 or later.
+As a general rule, players competing in Junior and Girls events shall be aged 25 years or younger in the calendar year in which the competition is to take place. Players competing in Youngsters events shall be aged 20 years or younger in the calendar year in which the competition is to take place. For example: throughout 2017, Juniors and Girls are players born in 1992 or later, Youngsters are players born in 1997 or later.
 
 ## 4.6 Eligibility for Senior Players
 
-
-In order to be eligible to participate in APBF Seniors events, players must be
-at least 60 years of age or attain the age of 60 during the calendar year of the
-Championship or Congress or Asia Cup.
+In order to be eligible to participate in APBF Seniors events, players must be at least 60 years of age or attain the age of 60 during the calendar year of the Championship or Congress or Asia Cup.
 
 ## 5. Official Language
 
@@ -230,7 +198,7 @@ the APBF detailed in Appendix 5.
 
 ## 8. Dress Code
 
-NBOs are asked to take note of the recognition of Bridge as a Sport by the IOC and requests that players should, at all times, be dressed appropriately; this is particularly the case at the Opening Ceremony and at the Prize Giving Ceremony or Victory Banquet, when it is expected that teams should at least be uniformly dressed even if a team uniform is not available. During play appropriate dress would, for example, be an open-necked shirt, or a smart polo or sweatshirt worn with trousers or skirt as appropriate.
+Contestants in Singapore National Championships are expected to be appropriate dressed, to show respect for other contestants and also to project the right image for Bridge as an IOC Sport. Appropriately dress during play would, for example, be open necked shirt, or a smart polo or sweatshirt worn with trousers or skirt as appropriate.
 
 ## 9. Restrictions
 The following restrictions apply to the playing areas (see definition of these areas in Section
