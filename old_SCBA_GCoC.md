@@ -88,73 +88,6 @@ WBF System Policy: means the Policy, issued by the WBF from time to time, that r
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3 Conditions of Entry
 3.1 By participating in Singapore National Championships, all contestants agree that all or part of any event may be filmed, recorded, or otherwise documented or publicized at the discretion of SCBA. A competitor must notably respect the spirit of fair play and ethics, and behave accordingly.
 3.2 It is at the discretion of the SCBA Management Committee to refuse to invite any player or non-playing captain whose name has been submitted for participation in A Singapore National Championship. In any such case of refusal, no reason shall be given by SCBA.
@@ -192,26 +125,19 @@ Tournament Directors to comply with the above restrictions.
 
 ## 8 Completion of Convention Card
 
-8.1 General
+### 8.1 General
 Contestants are required to make full written disclosure of their System and also to make a full disclosure of the meaning of any call or play in response to a proper question at the table from an opponent. The full written disclosure referred to in the above paragraph may be made by the completion in due form of the WBF Convention Card and Supplementary Sheets as required. Contestants are required to file their Convention Cards and Supplementary Sheets in accordance with the Supplementary Conditions of Contest.
 
-8.2 Supplementary Sheets
+### 8.2 Supplementary Sheets
 The function of the Supplementary Sheets is to facilitate the full disclosure of Systems and the relationship of material on a Supplementary Sheet to material on a Card should be clearly indicated, by corresponding numbers on both the Card and the Supplementary Sheet, or otherwise.
 
-8.3 Completion of Convention Card
-A Card will not be regarded as having been completed in due form for the purpose of
-this section unless:
-a. All sections of the Card have been accurately and legibly completed, in
-English, in accordance with the Guide to Completion, these Conditions of
-Contest and the Supplemental Conditions of Contest;
-b. The Card and Supplementary Sheets contain a clear and sufficient explanation of the System used, including, without limitation, all competitive agreements and understandings, it being accepted by SCBA that the full particulars of some sequences (such as relays) which occur in later rounds of the auction, may be omitted from the Card without such omission constituting a breach of
-
-
-```
-the requirement that the Card contain a clear and sufficient explanation of the System;
+### 8.3 Completion of Convention Card
+A Card will not be regarded as having been completed in due form for the purpose of this section unless:  
+a. All sections of the Card have been accurately and legibly completed, in English, in accordance with the Guide to Completion, these Conditions of Contest and the Supplemental Conditions of Contest;  
+b. The Card and Supplementary Sheets contain a clear and sufficient explanation of the System used, including, without limitation, all competitive agreements and understandings, it being accepted by SCBA that the full particulars of some sequences (such as relays) which occur in later rounds of the auction, may be omitted from the Card without such omission constituting a breach of the requirement that the Card contain a clear and sufficient explanation of the System;  
 c. The type of System and its appropriate colour are duly indicated in the
 prescribed place on the Card.
-```
+
 8.4 If a player makes use of any conventional call not sufficiently described on his Card (including Supplementary Sheets), that player’s partnership may be subjected to a procedural penalty (Law 90) for the infraction and/or to disciplinary penalty as well as to score adjustments to redress any damage.
 
 8.5 The onus of disclosure is on the user. When there is a claim of damage through inadequate disclosure, the Tournament Director and the Tournament Appeals Committee will give the benefit of any doubt to the opponents.
@@ -224,28 +150,11 @@ prescribed place on the Card.
 
 ## 10 Alerts and Explanations
 
-An alertable call is defined in the SCBA Alert Procedures (ref: SCBA Alert
-Procedures). Subject to the provisions Section 18 when screens are in use, the partner
-of a player who has made an alertable call must immediately alert his opponents
-unless they have stated, before the auction started on the first board of the set, that
-they do not wish to be alerted. It is the responsibility of the alerting player to alert
-clearly. No explanation of the meaning of the alertable should be made unless
-requested by an opponent. Request for explanation of an alertable call may be
-deferred until later in the auction, or until after the auction has closed in accordance
-with Law 20.
+An alertable call is defined in the SCBA Alert Procedures (ref: SCBA Alert Procedures). Subject to the provisions Section 18 when screens are in use, the partner of a player who has made an alertable call must immediately alert his opponents unless they have stated, before the auction started on the first board of the set, that they do not wish to be alerted. It is the responsibility of the alerting player to alert clearly. No explanation of the meaning of the alertable should be made unless requested by an opponent. Request for explanation of an alertable call may be deferred until later in the auction, or until after the auction has closed in accordance with Law 20.
 
 ### WBF Convention Booklet
 
-A reference to the name of a convention described in the WBF Convention Booklet
-which is contained on the WBF CCE or obtainable from [http://www.ecatsbridge.com](http://www.ecatsbridge.com)
-[Documents section] shall be deemed to be incorporate into the users’ System the full
-text of the relevant convention as described in the WBF Convention Booklet. Should
-any modification of the description contained in the WBF Convention Booklet be
-used, sufficient details of such modification must appear on the Card in the
-
-
-appropriate section where the subject convention is named. No modification should
-be written on the WBF Convention Booklet itself.
+A reference to the name of a convention described in the WBF Convention Booklet which is contained on the WBF CCE or obtainable from [http://www.ecatsbridge.com](http://www.ecatsbridge.com) [Documents section] shall be deemed to be incorporate into the users’ System the full text of the relevant convention as described in the WBF Convention Booklet. Should any modification of the description contained in the WBF Convention Booklet be used, sufficient details of such modification must appear on the Card in the appropriate section where the subject convention is named. No modification should be written on the WBF Convention Booklet itself.
 
 ## Non-playing Captains in Team Tournaments
 
@@ -253,11 +162,7 @@ be written on the WBF Convention Booklet itself.
 
 10.2 An NPC who leaves the room, except as provided in this Section, cannot return during that Session. Exceptionally, if the NPC is requested to leave the playing room (for the purpose of consultation or for whatever reason) by a Tournament Director, the President, the Chairman of the Tournament Appeals Committee, or the chairman of the organizing committee, he may (but need not) be permitted to return to the playing room at the discretion of the Tournament Director.
 
-10.3 An NPC is bound to the same restriction as spectators (Law 76), except that he
-may intervene to restrain misbehaviour, or curtail unnecessary discussion on the part
-of his team members, and may with concurrence of the Tournament Director speak to
-questions of fact or law, after the Tournament Director has been called to the table,
-but may not call the Tournament Director.
+10.3 An NPC is bound to the same restriction as spectators (Law 76), except that he may intervene to restrain misbehaviour, or curtail unnecessary discussion on the part of his team members, and may with concurrence of the Tournament Director speak to questions of fact or law, after the Tournament Director has been called to the table, but may not call the Tournament Director.
 
 10.4 During the time allowed for a Session, whether play is actually taking place at the moment or not, an NPC should not address members of his team at the table in any other language except English, or in a language understood by the opponents. If it is desired to use a language other than English, the permission of the opponents should be sought, and, where reasonably possible, should be given. If difficulty arises, an NPC wishing to speak to his team in a language not known to the opponents should do so through an interpreter or team member who can translate for the benefit of the opponents.
 
@@ -267,20 +172,16 @@ but may not call the Tournament Director.
 
 ## 11 Substitutes in Team Tournaments
 
-11.1 If, for any reason, a team is unable to produce four players, either at the start of a
+### 11.1 
+If, for any reason, a team is unable to produce four players, either at the start of a
 
 Session or because of an emergency that develops during the Session, the Tournament Director, in consultation with the captain of the team, may designate a substitute to complete the team. A substitute must not be a player from another team and may not be a male in the case of an event restricted to women.
 
-11.2 The Tournament Director, having designated a substitute, shall inform the
-Chairman of the Appeals Committee or his designee as soon as practicable. The
-results obtained by the substitute shall stand unless the Tournament Appeals
-Committee judges that the substitute’s bridge skills were considerably greater than
-those of the player replaced, in which case an adjusted score may be determined.
-Whether or not the result stands, the Tournament Appeals Committee may impose
-appropriate penalties when it judges a team to be at fault.
+### 11.2 
+The Tournament Director, having designated a substitute, shall inform the Chairman of the Appeals Committee or his designee as soon as practicable. The results obtained by the substitute shall stand unless the Tournament Appeals Committee judges that the substitute’s bridge skills were considerably greater than those of the player replaced, in which case an adjusted score may be determined. Whether or not the result stands, the Tournament Appeals Committee may impose appropriate penalties when it judges a team to be at fault.
 
-11.3 The Tournament Appeals Committee shall have authority to determine whether,
-and to what extent, a substitute may become a permanent replacement.
+### 11.3 
+The Tournament Appeals Committee shall have authority to determine whether, and to what extent, a substitute may become a permanent replacement.
 
 ## 12 Substitutes in Pair Tournaments
 
@@ -302,7 +203,7 @@ A board is considered “fouled” if the Tournament Director determines that on
 
 have direct comparison did not play the board in identical form. If in a team event a preduplicated board is wrongly dealt and Law 13 of the Laws of Duplicate Contract Bridge 1997 applies in such a way that the board cannot be played, the board is considered to be a fouled board.
 
-15.1 Fouled Boards in Team Play
+### 15.1 Fouled Boards in Team Play
 
 A board is not considered fouled if the boards played in the same match are identical even though that board may differ from the like numbered board played in simultaneous matches.
 
@@ -312,12 +213,12 @@ The same rules apply whenever a substitute board would normally be played, for e
 
 *Example: if the 7th board in a 16-board match is fouled and the error is discovered when the contestants are computing the result of the match, the board is disregarded and the match is scored as though it consisted of only 15 boards.
 
-15.2 Fouled Board in Pairs Play
+### 15.2 Fouled Board in Pairs Play
 When a board has been fouled, the Tournament Director shall determine where the foul occurred. If guilt can be determined, penalties should be assessed in accordance with the Supplemental Conditions of Contest. Procedures for scoring fouled boards are contained in the Supplemental Conditions of Contest.
 
 ## 16 Bidding Boxes
 
-16.1 General
+### 16.1 General
 Bidding boxes will be used throughout A Singapore National Championship. Starting with the dealer, players place the bidding cards on the table in front of them, from the left and neatly overlapping so that all calls are visible and faced towards partner; players should refrain from touching any bidding cards until they have determined their call. A call is considered to have been made when the bidding card(s) is removed from the bidding box with apparent intent (but Law 25 may apply).
 
 Alerts should be made by the use of the alert card; it is the responsibility of the alerting player to ensure that his opponents are aware of the Alert. Playing without screens a player “announces” a skip bid by placing the Stop card in front of him, then
@@ -326,80 +227,57 @@ placing his bid card as usual, and eventually removing the Stop card. His LHO sh
 
 Until they are removed from the table, a player obtains a review of the auction by inspecting the bidding cards. When such inspection is not feasible a player may obtain a written review of the auction at his first turn to play to trick one. If screens are in use, the bidding cards are removed from the box and placed in the tray from the left and neatly overlapping so that all calls are visible and faced towards partner; the players should make every effort to see that these actions are performed as quietly as possible.
 
-16.2 Changes to Bids Made
-A call placed and released may be changed :
+### 16.2 Changes to Bids Made
+A call placed and released may be changed:
+
 a) If it is illegal or inadmissible (in which case the change is obligatory), if screens are in use, as soon as either screenmate is aware of this; or
+
 b) If it is determined by the Director to be a call inadvertently selected or
+
 c) Under the provisions of Law 25 (the penalty provision of Law 25B does not apply if the first call is not transmitted through the screen) see Section 24.3 for procedures when screens are in use, subject to which a call placed and transferred to the other side of the screen becomes subject to the normal provisions of the Laws.
 
 ## 17 Play of the Cards
 
-During the course of play, each card should be played towards partner in a consistent
-manner and placed on the table in the same position each time so that it can be seen
-by all players at the table.
-Quitted tricks should be placed consistently in a neat row in front of the player, evenly
-overlapping with tricks won pointing towards partner and tricks lost pointing towards
-the opponents.
+During the course of play, each card should be played towards partner in a consistent manner and placed on the table in the same position each time so that it can be seen by all players at the table. Quitted tricks should be placed consistently in a neat row in front of the player, evenly overlapping with tricks won pointing towards partner and tricks lost pointing towards the opponents.
 
 ## 18 Screens
 
-18.1 Screens will be used in the finals of some of the Singapore National
+### 18.1 
+Screens will be used in the finals of some of the Singapore National
 Championships.
 
-18.2 Operations
-The North and East players sit on the same side of the screen throughout. It is North’s
-responsibility to place the board on, and to remove the board from, the bidding tray. It
-is West’s responsibility to adjust the screen aperture. The sequence is this: North
-places the board on the bidding tray. The aperture is closed (and remains so during the
-whole of the auction period) so that the bidding tray can just pass under it. The
-players remove the cards from the board. Calls are made with the cards from the
-bidding box. The player places the selected call in the bidding tray, which will be
-visible only on the player’s side of the screen. A player’s first call should touch the
-extreme left of his own segment of the bidding tray, with subsequent calls overlapping
-neatly and evenly to the right.
+### 18.2 Operations
+The North and East players sit on the same side of the screen throughout. It is North’s responsibility to place the board on, and to remove the board from, the bidding tray. It is West’s responsibility to adjust the screen aperture. The sequence is this: North places the board on the bidding tray. The aperture is closed (and remains so during the whole of the auction period) so that the bidding tray can just pass under it. The players remove the cards from the board. Calls are made with the cards from the bidding box. The player places the selected call in the bidding tray, which will be visible only on the player’s side of the screen. A player’s first call should touch the extreme left of his own segment of the bidding tray, with subsequent calls overlapping neatly and evenly to the right.
 
 
-After two players on the same side of the screen have made their calls, North or South
-(as the case may be) slides the bidding tray under the centre of the screen so as to be
-visible only to the players on the other side. They then make their calls in like manner
-and the bidding tray is slid back again. This procedure is continued until the auction is
-completed.
+After two players on the same side of the screen have made their calls, North or South (as the case may be) slides the bidding tray under the centre of the screen so as to be visible only to the players on the other side. They then make their calls in like manner and the bidding tray is slid back again. This procedure is continued until the auction is completed.
 
-After all four players have had the opportunity to review the auction (equivalent to the
-right of having the auction restated) the players replace their bidding cards in their
-respective bidding boxes.
+After all four players have had the opportunity to review the auction (equivalent to the right of having the auction restated) the players replace their bidding cards in their respective bidding boxes.
 
-After a legal opening lead is faced, the screen aperture is opened the minimum
-necessary to permit all players to see the dummy cards and the cards played to each
-trick.
+After a legal opening lead is faced, the screen aperture is opened the minimum necessary to permit all players to see the dummy cards and the cards played to each trick.
 
-18.3 Alert and Explanation
+### 18.3 Alert and Explanation
 a) A player who makes an alertable call as defined in Appendix 3 must alert his screen-mate, and partner must alert on the other side of the screen when the bidding tray arrives there. The alert must be made by placing the Alert Card over the last call of the screen-mate, in his segment of the bidding tray; the alerted player must acknowledge by returning the Alert Card to his opponent. A player may, by written question, ask for an explanation of an opponent’s call; the screen-mate then provides a written answer.
 
 b) At any time during the Auction a player may request of his screen mate, in writing, a full explanation of an opponent's call. The reply is also in writing.
 
 c) At all times from the commencement of the Auction to the completion of play each player receives information only from his screenmate about the meanings of calls and explanations given. Questions during the play period should be in writing with the aperture closed. The screen is raised after the response has been made.
 
-18.4 Modifications of Penalties when Screens are in Use
+### 18.4 Modifications of Penalties when Screens are in Use
 The Laws of Duplicate Contract Bridge 1997 are in effect except as specified below:
-- Law 9A2(b)(1); Law 42B(3); Law 43A(1)(b) - Dummy may call attention to a
-    defender’s card prematurely exposed.
-- Law 13 - The artificial adjusted score and penalty prescribed in the first
-    paragraph apply only if the call has been transmitted to the other side of the
-    screen.
-- Law 20 - Review of the Auction. Until the bidding cards are removed from the
-    tray, a player obtains a review of the auction by inspecting them. At trick one,
-    when a player is still entitled to obtain a review and an inspection of the bidding
-    cards is no longer feasible, a player obtains a written review of the auction from
-    his screen mate.
-- Laws 25 through 32; Law 34; Laws 36 through 39 - For the infractions covered
-    by these laws, the following procedures are used:
-a) Tray not Passed. Before the tray is passed, the offender’s screen mate shall
-call attention to the infraction and summon the director. The director shall see that the infraction is rectified without penalty. These infringing calls may not be accepted.
-b) Both Sides at Fault. When the infringing call is nonetheless passed across the screen, both sides being at fault (as when either player commits a bidding infraction and the proper player - North or South - moves the tray before rectification), both players on the other side of the screen are responsible for calling attention to the infraction and summoning the director. The director shall return the tray to the offending players for rectification of the irregularity without penalty. These infringing calls may
-not be accepted.
+- Law 9A2(b)(1); Law 42B(3); Law 43A(1)(b) - Dummy may call attention to a defender’s card prematurely exposed.
+- Law 13 - The artificial adjusted score and penalty prescribed in the first paragraph apply only if the call has been transmitted to the other side of the     screen.
+- Law 20 - Review of the Auction. Until the bidding cards are removed from the     tray, a player obtains a review of the auction by inspecting them. At trick one,     when a player is still entitled to obtain a review and an inspection of the bidding cards is no longer feasible, a player obtains a written review of the auction from his screen mate.
+- Laws 25 through 32; Law 34; Laws 36 through 39 - For the infractions covered     by these laws, the following procedures are used:
+
+a) Tray not Passed. Before the tray is passed, the offender’s screen mate shall call attention to the infraction and summon the director. The director shall see that the infraction is rectified without penalty. These infringing calls may not be accepted.
+
+b) Both Sides at Fault. When the infringing call is nonetheless passed across the screen, both sides being at fault (as when either player commits a bidding infraction and the proper player - North or South - moves the tray before rectification), both players on the other side of the screen are responsible for calling attention to the infraction and summoning the director. The director shall return the tray to the offending players for rectification of the irregularity without penalty. These infringing calls may not be accepted.
+
 c) Only one side at fault: When a call is passed across the screen both players on the other side of the screen are responsible for drawing attention to any infraction and summoning the Director. If B is not found to apply and except as otherwise provided in these General Conditions a call placed and transferred to the other side of the screen is subject to the normal provisions of the laws.
+
 d) Irregularity not Noticed. When the infringing call is passed across the screen, and neither player there draws attention to it, the tray eventually being returned to the side of the screen where the bidding irregularity was committed, the auction stands without penalty or rectification. However, in the case of an inadmissible call, Law 35 applies.
+
 e) Information - Authorized or Not. Information from withdrawn calls is unauthorized for any partnerships at fault but authorized for a player or partnership that has committed no irregularity. If the Director determines that the unauthorized information from withdrawn calls precludes normal bidding, he shall award an artificial adjusted score.
 - Law 33 - The subsequent call is cancelled without penalty.
 - Law 40 - Alerts. When an alertable call is made, the player alerts his screen
@@ -429,15 +307,15 @@ e) Information - Authorized or Not. Information from withdrawn calls is unauthor
 The Tournament Director shall be summoned to a table as soon as attention is drawn to an irregularity. After the Director has given the ruling, any appeal against such ruling must be lodged in accordance with the Section that follows.
 ## 20 Lodging of Appeals
 
-20.1 General
+### 20.1 General
 An appeal of The Tournament Director’s ruling must be lodged within 20 minutes after end of the round in which the TD made his ruling ends. It must be lodged by the team’s Captain or his designee, or by on member of the pair in the pairs event.			
 												  
-20.2 Deposit
+### 20.2 Deposit
 A deposit of S$50 must be made with the Tournament Director. This Deposit will be refunded unless the Appeals Committee determines that the appeal was without merit, in which case the deposit will be forfeited and paid to a charity that SCBA supports.
 
-20.3 Types of Appeals
-An appeal may take one of two forms:
-a) it may be an appeal of the Director's ruling as to an infraction or otherwise, and any consequent decisions. This would be heard in accordance with the section 21, or
+### 20.3 Types of Appeals
+An appeal may take one of two forms:  
+a) it may be an appeal of the Director's ruling as to an infraction or otherwise, and any consequent decisions. This would be heard in accordance with the section 21, or  
 b) it may alternatively be a Request for Review of the score adjustment where the appellant does not wish to challenge the finding of an infraction. The Tournament Appeals Committee would normally give a decision on this on the basis of the documentation alone.
 
 ## 21 Hearing of Appeals
@@ -451,11 +329,11 @@ On receipt of the duly completed Appeals Form the Tournament Director shall, as 
 
 On an investigation made otherwise than on appeal, the Committee may impose such penalty on any party, or direct that an adjusted score be entered for any boards, as it shall deem proper. In any case in which it considers the circumstances to justify or require it, the Committee may (in addition to any other penalty imposed) recommend to the SCBA the suspension of any player for one or more Sessions of the event, the forfeiture of a match, or the disqualification of a pair or team.
 
-21.2 Failure to attend
+### 21.2 Failure to attend
 If any party to an appeal or other proceeding of the Committee, or any other person whose attendance is required by the Chairman, having been given notice of the time and place of the hearing, fails to appear, the Chairman may:
 
-a) re-schedule the hearing;
-b) proceed to a decision of the Committee in the absence of the party who failed to appear;
+a) re-schedule the hearing;  
+b) proceed to a decision of the Committee in the absence of the party who failed to appear;  
 c) if the party who failed to appear is the appellant, dismiss the appeal without a hearing, and confirm the ruling of the Tournament Director.
 
 A party to an appeal or other proceeding of the Committee or any other person whose attendance is required by the Chairman, who fails to appear, having been given notice of the time and place of the hearing, may be penalized by the Committee. All four players at the table shall consider themselves called to the hearing unless prior consent to the absence of a player or players is obtained through the Tournament Director
@@ -472,12 +350,11 @@ An appeal of the Tournament Director’s ruling on, or an interpretation of, the
 
 ## 24 Tie Breaking Procedures in Team Events																		  
 
-24.1 Round-Robins
+### 24.1 Round-Robins
 
-24.1.1 Two Teams
+#### 24.1.1 Two Teams
 
-If two teams are tied with the same number of Victory Points at the end of any round-
-robin, the tie shall be broken as follows:
+If two teams are tied with the same number of Victory Points at the end of any round- robin, the tie shall be broken as follows:
 
 a) IMPs in the match between the teams. If the tie remains, then:
 
@@ -487,7 +364,7 @@ c) The higher total of Victory Points earned against the qualified teams they ea
 
 d) One board "sudden death" matches (one board at a time) until a winner emerges, with neither team to have seating rights against the other.
 
-24.1.2 Three Teams
+#### 24.1.2 Three Teams
 
 If three teams are tied with the same number of Victory Points at the end of any round-robin, the tie shall be broken as follows:
 
@@ -509,23 +386,23 @@ a) If one team earned the most Victory Points in its matches against the other t
 
 b) The highest IMP quotient in all matches played by the tied teams; and the tie between the three remaining teams shall be broken in accordance with Section the Section 24.1.2.
 
-24.1.4 Failure to break a tie
+#### 24.1.4 Failure to break a tie
 In the event that the procedures set out in the above Sections fail to break a tie, the SCBA Technical Sub-Committee is authorized to break the tie by whatever procedure it considers to be equitable in the circumstances. No appeal can be made against the decision of the Committee in this matter.
 
-24.2 Direct Knockout
+### 24.2 Direct Knockout
 
-24.2.1 All matches except the Finals:
+#### 24.2.1 All matches except the Finals:
 
 If a tie exists at the end of a knockout match, it will be resolved by playing two additional boards (boards 1 and 2); if the tie remains, another two boards (3 and 4) will be played; if the tie remains, one board ("sudden-death") matches will determine the winner.
 
-24.2.2 Finals:
+#### 24.2.2 Finals:
 
 As in the Section 24.2.1, except that four additional boards, instead of two, will be played in the first two tie-breakers.
 
-24.2.3 Seating Rights
+#### 24.2.3 Seating Rights
 When a tie exists at the end of a match in the Direct Knockout, there shall be a coin toss by the captains to determine Home Team rights for the first tiebreaking match (or 4 boards as the case may be). If a tie still exists, Home Team rights in the second tie-breaking match shall pass to the Visiting Team in the first match. Line-up changes may be made before play begins in either of the tie-breaking matches; and in each case the captain of the Visiting Team shall submit his line-up at a time to be determined by the Tournament Director, and the captain of the Home Team shall submit his line-up five minutes thereafter. Each set of 4 or 8 boards (as the case may be) shall be treated as a separate match. If a still-existing tie requires that one board ("sudden death") matches be played, the line-up and seating positions for both teams will, until the tie is broken, remain as they were for the second tie-breaking match.
 
-24.3 Swiss Teams
+### 24.3 Swiss Teams
 
 In a Swiss Team event, the team with the highest Victory Point total is normally declared the winner. However, in short Swiss Team events where it may not be possible for the top teams to have played each other, if only one team has won all of its matches that team is declared the winner even if that team does not have the highest number of Victory Points. A short Swiss Team event is one where the number of teams “x” is less than 2(n-2) where “n” is the number of rounds.
 
@@ -534,30 +411,20 @@ In a Swiss Team event, the team with the highest Victory Point total is normally
 Any partnership not seated and ready to play at the announced starting time of the
 session will be assessed a penalty according to the following scale:
 
-- 0-5 minutes: Warning (Subsequent violation will result in a penalty of 1 VP or 3
-    IMPs in a direct knock-out match, or 25% of the matchpoints available on a board
-    for that session for Pairs events);
-- 5-10 minutes: Penalty of 1 VP or 3 IMPs in a direct knock-out match; or 25% of
-    the matchpoints available on a board for that session for Pairs events;
-- 10-15: Penalty of 2 VP or 6 IMPS in a direct knock-out match, or 50% of the
-    matchpoints available on a board for that session for Pairs events;
+- 0-5 minutes: Warning (Subsequent violation will result in a penalty of 1 VP or 3     IMPs in a direct knock-out match, or 25% of the matchpoints available on a board     for that session for Pairs events);
+- 5-10 minutes: Penalty of 1 VP or 3 IMPs in a direct knock-out match; or 25% of     the matchpoints available on a board for that session for Pairs events;
+- 10-15: Penalty of 2 VP or 6 IMPS in a direct knock-out match, or 50% of the     matchpoints available on a board for that session for Pairs events;
 - 15+ minutes (in a team event of less than 14 boards per match): Walkover;
-- 15-20: Penalty of 3 VP or 9 IMPS in a direct knock-out match, or 75% of the
-    matchpoints available on a board for that session for Pairs events;
-- 20-25: Penalty of 4 VP or 12 IMPS in a direct knock-out match, or 100% of the
-    matchpoints available on a board for that session for Pairs events;
-- 25-30: Penalty of 5 VP or 15 IMPS in a direct knock-out match, or 150% of the
-    matchpoints available on a board for that session for Pairs events; and
+- 15-20: Penalty of 3 VP or 9 IMPS in a direct knock-out match, or 75% of the     matchpoints available on a board for that session for Pairs events;
+- 20-25: Penalty of 4 VP or 12 IMPS in a direct knock-out match, or 100% of the     matchpoints available on a board for that session for Pairs events;
+- 25-30: Penalty of 5 VP or 15 IMPS in a direct knock-out match, or 150% of the     matchpoints available on a board for that session for Pairs events; and
 - 30+ minutes: Walkover
 
 ## 26 Slow Play
 
-If play continues after the allocated time, then either or both pairs shall be subject to
-penalty, according to the amount of delay for which such pair was adjudged, as
-follows:
+If play continues after the allocated time, then either or both pairs shall be subject to penalty, according to the amount of delay for which such pair was adjudged, as follows:
 
-26.1 Excess time during the Round-Robin or Pairs Events:
-
+### 26.1 Excess time during the Round-Robin or Pairs Events:
 
 O+ - 5 minutes excess 1 VP or 50% of the matchpoints available on a board for that session.
 5+ - 10 minutes excess 1'/2 VP or 75% of the matchpoints available on a board for that session
@@ -569,13 +436,11 @@ five minutes and Pair A is held responsible for nine extra minutes and Pair B fo
 extra minutes: total penalty will be 2 VPs (1 5 minutes late), Pair A receiving 1.2 VP
 penalty and Pair B 0.8 VP penalty.
 
-26.2 Excess time during the Direct Knockout Matches:
+### 26.2 Excess time during the Direct Knockout Matches:
 
 1 - 25 minutes late 1 IMP for each minute or part thereof;
 
-Over 25 minutes late at the discretion of the Tournament Appeals Committee; may
-include recommendation of forfeit of match or more severe action by the SCBA
-Management Committee.
+Over 25 minutes late at the discretion of the Tournament Appeals Committee; may include recommendation of forfeit of match or more severe action by the SCBA Management Committee.
 
 A Tournament Director or an official monitor appointed by the President shall determine responsibility for slow play. A player has the right, at any time during the Session, to call a Tournament Director and draw attention to the slow play of his opponents.
 
@@ -588,10 +453,7 @@ these Conditions of Contest and the Supplemental Conditions of Contest, at any t
 
 ## 28 Responsibility Of The SCBA
 
-The SCBA schedules an event to occur at a particular time and place. However, the
-SCBA makes no warranty to any participating NBO, team, pair or person, that any
-particular event will take place as scheduled and accepts no responsibility for any loss
-or expense should it not do so.
+The SCBA schedules an event to occur at a particular time and place. However, the SCBA makes no warranty to any participating NBO, team, pair or person, that any particular event will take place as scheduled and accepts no responsibility for any loss or expense should it not do so.
 
 ## 29 Policy on Psychic Bidding
 
@@ -621,274 +483,144 @@ play regardless of the result on the board.
        h) the Scribe recording the proceedings
 3. Once the hearing of the evidence and argument has begun, no additional member
     of the Committee shall join the Committee hearing the appeal.
-4. The Chairman shall preside over the appeal, and the order of proceedings shall be:
+4. The Chairman shall preside over the appeal, and the order of proceedings shall be:  
     a) distribution of copies of the relevant Appeals Form (the Tournament
        Director shall, prior to the hearing, have whenever practicable given the
-       respondent a copy of the Appeals Form);
+       respondent a copy of the Appeals Form);  
     b) identification of the appellant and the respondent; and the introduction of
-       all present by the Chairman;
+       all present by the Chairman;  
     c) statement of the facts by the Tournament Director who gave the ruling
-       appealed against;
-    d) questions to the Tournament Director from the Committee;
+       appealed against;  
+    d) questions to the Tournament Director from the Committee;  
     e) opportunity for the appellant and the respondent to register agreement or
-       disagreement with the Tournament Director's statement of facts;
+       disagreement with the Tournament Director's statement of facts;   
     f) the testimony of any special witness invited by the Chairman to assist the Committee; then as in (d) and (e) above;
-    g) the case for the appellant;
-    h) questions from the Committee;
-    i) the case for the respondent;
-    j) questions from the Committee;
-    k) any further questions or comment elicited by the Chairman;
-    l) after hearing the evidence and arguments, all persons other than the
-       members of the Committee shall leave the appeal room, unless the
-       Chairman requests the Tournament Director to remain during all or part of
-       the Committee's deliberations;
-    m) the Committee, having reached its decision in accordance with section 21.1, shall communicate this to the parties (if still present) and the Tournament Director, together with a brief statement of the reasons by the Chairman. It shall be the responsibility of the Tournament Director to communicate the decision to any absent party.
+    g) the case for the appellant;  
+    h) questions from the Committee;  
+    i) the case for the respondent;  
+    j) questions from the Committee;  
+    k) any further questions or comment elicited by the Chairman;  
+    l) after hearing the evidence and arguments, all persons other than the        members of the Committee shall leave the appeal room, unless the        Chairman requests the Tournament Director to remain during all or part of
+       the Committee's deliberations;  
+    m) the Committee, having reached its decision in accordance with section 21.1, shall communicate this to the parties (if still present) and the Tournament Director, together with a brief statement of the reasons by the Chairman. It shall be the responsibility of the Tournament Director to communicate the decision to any absent party.  
 5. These guidelines are intended to assist the Committee to conduct appeals fairly
     and courteously.
 6. If the Committee is conducting a proceeding which is not an appeal of a ruling of
     the Tournament Director, the above guidelines may be modified by the Chairman
     as appropriate to achieve fairness.
-7. References in these guidelines to the Chairman include the Chairman of the
-    Tournament Appeals Committee and any designated Chairman referred to in
-    Section of these General Conditions of Contest.
+7. References in these guidelines to the Chairman include the Chairman of the     Tournament Appeals Committee and any designated Chairman referred to in     Section of these General Conditions of Contest.
 Players are encouraged to refer to the Code of Practice for Appeals Committees. This
 can be obtained from Internet at [http://www.bridge.gr](http://www.bridge.gr) or from [http://www.ecatsbridge.com](http://www.ecatsbridge.com)
 (documents section) or from [http://www.scba.org,](http://www.scba.org,) or by contacting SCBA Secretariat at 51
 Bishan street 13 #01-01 Singapore 579799 (Email:scba@1800-mail.com) (Tel: 65-
 6356-8540)
 
+## Appendix 2 – WBF Systems Policy 2000
 
-```
-Appendix 2 – WBF Systems Policy 2000
-```
 (Adopted December 1994; amended October 1996 and January 2000)
 
-A2.1 Objectives
-The objectives are to ensure that WBF Championships can be properly operated
-and adequately administered, with a fair and equal chance for all competitors,
-while at the same time affording proper consideration to progress and innovation;
-to ensure that players are in no doubt as to what is expected of them with regard
-to preparation and filing of systems material for WBF Championships.
-Additions or amendments to this policy will normally be put into effect only after
-four months’ notice.
+### A2.1 Objectives
+The objectives are to ensure that WBF Championships can be properly operated and adequately administered, with a fair and equal chance for all competitors, while at the same time affording proper consideration to progress and innovation; to ensure that players are in no doubt as to what is expected of them with regard to preparation and filing of systems material for WBF Championships. Additions or amendments to this policy will normally be put into effect only after four months’ notice.
 
-A2.2 Definitions
-Average Hand a hand containing one card of each rank
-Weak high card strength below that of an average hand
-Strong high card strength a king or more greater than that of an average hand
-Natural a call or play that is not a convention (as defined in the Laws)
-Length three cards or more
-Shortage two cards or less
-Long Match a match of 17 or more deals
-Short Match a match of less than 17 deals
-For the purpose of this Policy, a Highly Unusual Method (HUM) means any ystem
-that exhibits one or more of the following features, as a matter of partnership
-agreement:
-a) A Pass in the opening position may have the values generally accepted for an
-opening bid of one, and the player who passes may hold values a queen or more
-above the strength of an average hand (an average hand contains 10 HCP)
-b) By partnership agreement an opening bid at the one level may be weaker than
-pass.
-c) By partnership agreement an opening bid at the one level may be made with
-values a king or more below average strength.
-d) By partnership agreement an opening bid at the one level shows (a) either
-length or shortage in a specified suit or (b) either length in one suit or length in
-another
+### A2.2 Definitions
+Average Hand a hand containing one card of each rank  
+Weak high card strength below that of an average hand  
+Strong high card strength a king or more greater than that of an average hand  
+Natural a call or play that is not a convention (as defined in the Laws)  
+Length three cards or more  
+Shortage two cards or less  
+Long Match a match of 17 or more deals  
+Short Match a match of less than 17 deals  
+For the purpose of this Policy, a Highly Unusual Method (HUM) means any system that exhibits one or more of the following features, as a matter of partnership agreement:  
+a) A Pass in the opening position may have the values generally accepted for an opening bid of one, and the player who passes may hold values a queen or more above the strength of an average hand (an average hand contains 10 HCP)
+b) By partnership agreement an opening bid at the one level may be weaker than pass.
+c) By partnership agreement an opening bid at the one level may be made with values a king or more below average strength.
+d) By partnership agreement an opening bid at the one level shows (a) either length or shortage in a specified suit or (b) either length in one suit or length in another
 
-A2.3 Classification of Systems
-In order to facilitate recognition and handling, systems material will be identified
-by one or more of the following:
+### A2.3 Classification of Systems
+In order to facilitate recognition and handling, systems material will be identified by one or more of the following:
 a) a WBF coloured sticker;
 b) the appropriate name (hand printed or typed) colour;
 c) a check mark on a convention card next to the appropriate colour – in keeping
 with the following descriptions:
 
 1. Green Natural
-2. Blue Strong Club/Strong Diamond, where one club/one diamond is always
-    strong
-3. Red Artificial: this category includes all artificial systems that do not fall
-    under the definition of Highly Unusual Methods (HUM) systems [see
-    definition below], other than Strong Club/Strong Diamond systems (see
-    ‘Blue’) Examples would be a system where one club shows one of three
-    types - a natural club suit, a balanced hand of a specific range, or a Strong
-    Club opener; or a system in which the basic methods (other than the no
+2. Blue Strong Club/Strong Diamond, where one club/one diamond is always strong
+3. Red Artificial: this category includes all artificial systems that do not fall     under the definition of Highly Unusual Methods (HUM) systems [see definition below], other than Strong Club/Strong Diamond systems (see ‘Blue’) Examples would be a system where one club shows one of three types - a natural club suit, a balanced hand of a specific range, or a Strong Club opener; or a system in which the basic methods (other than the no trump range) vary according to position, vulnerability and the like; or a system that uses conventional 'weak' or 'multi-meaning' bids (with or without some weak option) in potentially contestable auctions, other than those described in the main part of the WBF Convention Booklet
 
-
-```
-trump range) vary according to position, vulnerability and the like; or a
-system that uses conventional 'weak' or 'multi-meaning' bids (with or
-without some weak option) in potentially contestable auctions, other than
-those described in the main part of the WBF Convention Booklet
-```
 - Yellow Highly Unusual Methods ('HUM') as defined above.
 
-A2.4 Brown Sticker Conventions and Treatments
+### A2.4 Brown Sticker Conventions and Treatments
 The following conventions or treatments are categorised as ‘Brown Sticker’.
 a) Any opening bid of two clubs through three spades that:
 
 - could be weak (may by agreement be made with values below
 average strength) AND
 - does not promise at least four cards in a known suit.
-EXCEPTION : The bid always shows at least four cards in a known suit if it
-is weak. If the bid does not show a known four card suit it must show a
-hand a king or more over average strength. (Explanation: Where all the
-weak meanings show at least four cards in one known suit, and the strong
-meanings show a hand with a king or more above average strength, it is
-not a Brown Sticker Convention.)
-EXCEPTION : A two level opening bid in a minor showing a weak two in
-either major, whether with or without the option of strong hand types, as
-described in the WBF Conventions Booklet.
-b) An overcall of a natural opening bid of one of a suit that does not promise
-at least four cards in a known suit.
+EXCEPTION : The bid always shows at least four cards in a known suit if it is weak. If the bid does not show a known four card suit it must show a hand a king or more over average strength. (Explanation: Where all the weak meanings show at least four cards in one known suit, and the strong meanings show a hand with a king or more above average strength, it is not a Brown Sticker Convention.)
+EXCEPTION : A two level opening bid in a minor showing a weak two in either major, whether with or without the option of strong hand types, as described in the WBF Conventions Booklet.
+b) An overcall of a natural opening bid of one of a suit that does not promise at least four cards in a known suit.  
 EXCEPTION : A natural overcall in no trumps.
-c) Any 'weak' two-suited bids at the two or three level that may by agreement
-be made with three cards or fewer in one of the suits.
+c) Any 'weak' two-suited bids at the two or three level that may by agreement be made with three cards or fewer in one of the suits.
 d) Psychic bids protected by system or required by system.
-e) None of the foregoing restrictions pertain to conventional defences against
-strong, artificial opening bids or defences against ‘Brown Sticker’ or HUM
-conventions.
-Additional to the classification of systems in 41.3 above, any partnership using
-one or more ‘Brown Sticker’ conventions must indicate this alongside its system
-classification.
+e) None of the foregoing restrictions pertain to conventional defences against strong, artificial opening bids or defences against ‘Brown Sticker’ or HUM conventions.
+Additional to the classification of systems in 41.3 above, any partnership using one or more ‘Brown Sticker’ conventions must indicate this alongside its system classification.
 
-A2.5 Encrypted Signals
-Additional to the restrictions on bidding methods and conventions above, players
-may not use signalling methods by which the message or messages conveyed by
-the signals are hidden from the declarer because of some key available only to
-the defenders (i.e. encrypted signals are not allowed)
+### A2.5 Encrypted Signals
+Additional to the restrictions on bidding methods and conventions above, players may not use signalling methods by which the message or messages conveyed by the signals are hidden from the declarer because of some key available only to the defenders (i.e. encrypted signals are not allowed)
 
-A2.6 Systems allowed at WBF Championships
-In relation to the aspect of Systems to be allowed at WBF Championships, the
-events will be divided into three categories:
+### A2.6 Systems allowed at WBF Championships
+In relation to the aspect of Systems to be allowed at WBF Championships, the events will be divided into three categories:
 
 Category 1: Bermuda Bowl, Venice Cup
-For such events all classifications of systems will be permitted, subject to
-adequate disclosure, but teams using HUM systems must submit their
-Convention Cards in advance in accordance with the Conditions of Contest and
-will be subject to a reduction of seating rights, as follows:Whenever a team with
-one or more pairs using a HUM system opposes a team that has no such pair,
-the HUM systems team will be the ‘Away’ team, and lines up first throughout.
+For such events all classifications of systems will be permitted, subject to adequate disclosure, but teams using HUM systems must submit their Convention Cards in advance in accordance with the Conditions of Contest and will be subject to a reduction of seating rights, as follows:Whenever a team with one or more pairs using a HUM system opposes a team that has no such pair, the HUM systems team will be the ‘Away’ team, and lines up first throughout.
 
+No special seating rights or line-up restrictions shall apply when two teams containing HUM systems pairs (regardless of line-up) oppose one another.
 
-No special seating rights or line-up restrictions shall apply when two teams
-containing HUM systems pairs (regardless of line-up) oppose one another.
+Category 2: Knock-out matches of the Olympiad, of the Rosenblum Cup and of the McConnell Cup and other Teams Championships as decided by the WBF Rules and Regulations Committee:
+The use of HUM systems is prohibited. ‘Brown Sticker’ conventions will be permitted, subject to adequate disclosure, but players using them must submit their Convention Cards in advance in accordance with the Conditions of Contest.
 
-Category 2: Knock-out matches of the Olympiad, of the Rosenblum Cup
-and of the McConnell Cup and other Teams Championships as decided by
-the WBF Rules and Regulations Committee:
-The use of HUM systems is prohibited.
-‘Brown Sticker’ conventions will be permitted, subject to adequate disclosure, but
-players using them must submit their Convention Cards in advance in
-accordance with the Conditions of Contest.
-
-Category 3: Olympiad (Round-Robin), all Pairs Championships, Junior
-Teams
-Championships, Rosenblum Cup and McConnell Cup (short matches), at
-Transnational events and the IOC Grand Prix
+Category 3: Olympiad (Round-Robin), all Pairs Championships, Junior Teams Championships, Rosenblum Cup and McConnell Cup (short matches), at Transnational events and the IOC Grand Prix 
 The use of both HUM systems and ‘Brown Sticker’ conventions is prohibited.
 
-A2.7 Systems Material
-For all Category 1 Teams events, where Yellow (HUM) systems are permitted,
-any pair using a HUM system is required (in addition to the normal timely filing of
-the Convention card and Supplementary Sheets) to submit the full system in
-English at the beginning of the Championship.
-Pairs using Green, Blue or Red systems are encouraged to submit their full
-system in English at the beginning of any WBF Championship.
-In decisions taken by Tournament Directors and by the Appeals Committee, pairs
-who have submitted their full system will be given the benefit of any support this
-provides for an explanation given at the table, as far as this goes.
+### A2.7 Systems Material
+For all Category 1 Teams events, where Yellow (HUM) systems are permitted, any pair using a HUM system is required (in addition to the normal timely filing of the Convention card and Supplementary Sheets) to submit the full system in English at the beginning of the Championship.
+Pairs using Green, Blue or Red systems are encouraged to submit their full system in English at the beginning of any WBF Championship.
+In decisions taken by Tournament Directors and by the Appeals Committee, pairs who have submitted their full system will be given the benefit of any support this provides for an explanation given at the table, as far as this goes.
 
-A2.8 Convention Cards/Supplementary Sheets
-The principle of adequate disclosure requires that competitors fully disclose all
-conventions and treatments requiring defensive preparation. In addition to
-the Convention cards, pairs will use Supplementary Sheets to achieve this
-objective.
-The use of Supplementary Sheets is not strictly limited for all events, provided
-that the entries are properly numbered to correspond to appropriately cross-
-referenced numbers on the Convention card itself. The sheets must readily
-legible and the numbered entries must be separated by discernible heavy lines.
-While brevity is encouraged, particularly for Category 2 and Category 3 events,
-full disclosure must not be prejudiced in any way as a result.
-All conventions and treatments requiring defensive preparation must be
-listed on the front right part of the WBF Card. They must be explained and fully
-developed (including competitive agreements) either in the appropriate section on
-the outside or inside of the card, or, where there is inadequate space there, in the
-first numbered entries on the Supplementary Sheets. The front right part of the
-Convention Card must include:
-1) All artificial openings (except strong one club/two club openings)
-2) Response to natural openings which are weak and conventional
-3) All conventional defensive bids used over natural openings of one of a suit
-making sure that all two suited intervention is detailed precisely; the best way
-to do this is to write: 'Two Suiters' and include a reference number to an early
-Supplementary Sheet entry, which will provide the particulars).
+### A2.8 Convention Cards/Supplementary Sheets
+The principle of adequate disclosure requires that competitors fully disclose all conventions and treatments requiring defensive preparation. In addition to the Convention cards, pairs will use Supplementary Sheets to achieve this objective.
+The use of Supplementary Sheets is not strictly limited for all events, provided that the entries are properly numbered to correspond to appropriately cross-referenced numbers on the Convention card itself. The sheets must readily legible and the numbered entries must be separated by discernible heavy lines.
+While brevity is encouraged, particularly for Category 2 and Category 3 events, full disclosure must not be prejudiced in any way as a result.
+All conventions and treatments requiring defensive preparation must be listed on the front right part of the WBF Card. They must be explained and fully developed (including competitive agreements) either in the appropriate section on the outside or inside of the card, or, where there is inadequate space there, in the first numbered entries on the Supplementary Sheets. The front right part of the Convention Card must include:
+1) All artificial openings (except strong one club/two club openings)  
+2) Response to natural openings which are weak and conventional  
+3) All conventional defensive bids used over natural openings of one of a suit making sure that all two suited intervention is detailed precisely; the best way to do this is to write: 'Two Suiters' and include a reference number to an early Supplementary Sheet entry, which will provide the particulars).
 
 
-If a pair uses any bid which should have been listed here, but which has been left
-out, and their opponents do not get to their best contract, there will be a strong
-presumption that the opponents have been damaged by not being able to
-prepare a defence. The offending pair may also be liable to incur a procedural
-penalty.
-Any pair playing a HUM system or 'Brown Sticker' convention has a special
-obligation to present a complete description of both their bids and subsequent
-developments (especially competitive developments). If a pair uses an auction
-that is not fully described, then the same presumption of lack of advance notice
-(with adjustments and penalties as described in the preceding paragraph) shall
-apply.
-For each tournament, the Conditions of Contest will state the date by which, and
-the address at which, systems material and Convention Cards (together with
-telephone and fax number or email addresses of the individuals best equipped to
-deal with queries regarding the system) must be received. The onus is jointly on
-the pair, the non-playing captain (where relevant), the NBO and the Zonal
-Organisation to obtain the information required to meet this deadline. Failure to
-meet this deadline will result in automatic penalties, which will be fully described
-in the Conditions of Contest. Problems with systems should be referred to the
-Chairman of the Systems Committee or his nominee in accordance with details
-given in the Conditions of Contest.
-After the closing date for submission of systems, the following will be the policy
-governing any changes to the Convention Card and Supplementary Sheets:
-a) Deletion of an item or a statement will be permitted upon application to the
-Chairman of the Systems Committee or his nominee
-b) A change replacing an agreement with another or to introduce a fresh
-agreement, where the new material is not Brown Sticker, will normally be
-permitted. The permission to use the new agreement will operate at the discretion
-of the Chairman, but will normally be from the morning of the second day after
-notification of the change is issued to other contestants
-c) Neither the replacement of a Brown Sticker convention with another Brown
-Sticker convention, nor the introduction of a new Brown Sticker convention will be
-permitted
-It is strongly emphasised, and all contestants must note, that the policy stated
-above will be rigorously applied.
+If a pair uses any bid which should have been listed here, but which has been left out, and their opponents do not get to their best contract, there will be a strong presumption that the opponents have been damaged by not being able to prepare a defence. The offending pair may also be liable to incur a procedural penalty.
 
-A2.9 Defence against Yellow (HUM) Systems and Brown Sticker
-Conventions
-For Team events in Category 1, the following regulations will apply to defensive
-measures against HUM systems.
-(i) A pair opposing a HUM system pair will submit two (clearly legible) copies of
-their defence to the HUM system at an appropriate time and place prior to the
-start of that segment, to be specified in the Conditions of Contest. Such defences
-are deemed to be part of the opponents’ convention card.
-(ii) In preparing the defence against a HUM system, pairs using Green, Blue or
-Red systems are allowed to change their systems, including opening calls. Pairs
-using a HUM system are not allowed to change their opening calls.
-(iii) The pair using a HUM system must inform the opponents in writing (two
-clearly legible copies) about their counter-defence at the table prior to the start of
-the session. In preparing their counter-defence, the pair using a HUM system is
-not permitted to change any of the highly artificial aspects of its system.
+Any pair playing a HUM system or 'Brown Sticker' convention has a special obligation to present a complete description of both their bids and subsequent developments (especially competitive developments). If a pair uses an auction that is not fully described, then the same presumption of lack of advance notice (with adjustments and penalties as described in the preceding paragraph) shall apply.
 
+For each tournament, the Conditions of Contest will state the date by which, and the address at which, systems material and Convention Cards (together with telephone and fax number or email addresses of the individuals best equipped to deal with queries regarding the system) must be received. The onus is jointly on the pair, the non-playing captain (where relevant), the NBO and the Zonal Organisation to obtain the information required to meet this deadline. Failure to meet this deadline will result in automatic penalties, which will be fully described in the Conditions of Contest. Problems with systems should be referred to the Chairman of the Systems Committee or his nominee in accordance with details given in the Conditions of Contest.
 
-For Teams events in Category 1 and Category 2, the following regulations will
-apply in relation to defensive measures against Brown Sticker Conventions:
-A pair may prepare written defences against the 'Brown Sticker' elements of any
-system. Such defences will have to be given to the opponents (two clearly legible
-copies) at an appropriate time and place prior to the start of that segment, to be
-specified in the Conditions of Contest. Written defences against Brown Sticker
-conventions are deemed to be part of the opponents’ convention card.
+After the closing date for submission of systems, the following will be the policy governing any changes to the Convention Card and Supplementary Sheets:  
+a) Deletion of an item or a statement will be permitted upon application to the Chairman of the Systems Committee or his nominee  
+b) A change replacing an agreement with another or to introduce a fresh agreement, where the new material is not Brown Sticker, will normally be permitted. The permission to use the new agreement will operate at the discretion of the Chairman, but will normally be from the morning of the second day after notification of the change is issued to other contestants  
+c) Neither the replacement of a Brown Sticker convention with another Brown Sticker convention, nor the introduction of a new Brown Sticker convention will be permitted  
 
-A2.10 Number of systems allowed per team
-For Category 1 events, a maximum number of four Red or Yellow Systems, of
-which only three may be Yellow, will be permitted for each participating team. A
-System, for the purpose of this section, may include different methods for
-different vulnerabilities. Both members of the partnership must use the same
-methods.
+It is strongly emphasised, and all contestants must note, that the policy stated above will be rigorously applied.
+
+### A2.9 Defence against Yellow (HUM) Systems and Brown Sticker Conventions
+For Team events in Category 1, the following regulations will apply to defensive measures against HUM systems.  
+(i) A pair opposing a HUM system pair will submit two (clearly legible) copies of their defence to the HUM system at an appropriate time and place prior to the start of that segment, to be specified in the Conditions of Contest. Such defences are deemed to be part of the opponents’ convention card.  
+(ii) In preparing the defence against a HUM system, pairs using Green, Blue or Red systems are allowed to change their systems, including opening calls. Pairs using a HUM system are not allowed to change their opening calls.  
+(iii) The pair using a HUM system must inform the opponents in writing (two clearly legible copies) about their counter-defence at the table prior to the start of the session. In preparing their counter-defence, the pair using a HUM system is not permitted to change any of the highly artificial aspects of its system.
+
+For Teams events in Category 1 and Category 2, the following regulations will apply in relation to defensive measures against Brown Sticker Conventions:
+A pair may prepare written defences against the 'Brown Sticker' elements of any system. Such defences will have to be given to the opponents (two clearly legible copies) at an appropriate time and place prior to the start of that segment, to be specified in the Conditions of Contest. Written defences against Brown Sticker conventions are deemed to be part of the opponents’ convention card.
+
+### A2.10 Number of systems allowed per team
+For Category 1 events, a maximum number of four Red or Yellow Systems, which only three may be Yellow, will be permitted for each participating team. A System, for the purpose of this section, may include different methods for different vulnerabilities. Both members of the partnership must use the same methods.
 
 

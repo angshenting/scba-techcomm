@@ -14,24 +14,18 @@ The WBF Systems Policy, the WBF Alerting Policy, the WBF Policy on Psychic Biddi
 Expressions used in these Conditions of Contest and not defined shall have their ordinary meaning in contract bridge terminology (which may include expressions defined in the Laws of Duplicate Bridge 2017). In the event of any doubt or dispute as to such meaning, the decision of the event’s Organising Committee shall be final and conclusive. The singular shall include the plural and vice-versa and reference to one gender shall include the other.
 
 ## 2. Definitions For The General Conditions Of Contest
-
 Unless repugnant to the context or obvious meaning, the following expressions where used in these Conditions of Contest shall have the following meanings:
 
 ### 2.1 SCBA
 means the Singapore Contract Bridge Association, as registered under the Registrar of Societies ROS0074/1962SPO.
 
-### 2.2 Approved Recorder
-means:
-a) a person approved for the purpose by the Chief Tournament Director or
-his designee;
-b) either non-playing Captain of the playing teams, or
-c) the North or South player.
+### 2.2 Appeal Form
+means the form prescribed by SCBA for the lodging of appeals at a Singapore National Championship.
 
-
-### 2.3 Asia Pacific Bridge Federation Championship & Congress and Asia Cup Championships
+### 2.3 Singapore National Championships
 means any event so designated by the SCBA from time to time and if the context permits, also means the totality of such events scheduled for play at a particular site. The event should generally commence sometime between May 1 and June 30. Within these limits, actual dates are left to the convenience of the host NBO. However, the host NBO should circulate approximate dates by November 1 of the previous year.
 
-### 2. 4 Brown Sticker Announcement Form
+### 2.4 Brown Sticker Announcement Form
 means the form designed for the announcement of Brown Sticker Conventions (bids, overcalls and subsequent auction) as referred to in the WBF Systems Policy.
 
 ### 2.5 Chief Tournament Director and Assistant Chief Tournament Director
@@ -148,6 +142,8 @@ The Laws printed in English will be used by the Tournament Directors to adjudica
 ### 6.1 Player’s Obligation
 All contestants in APBF Championships or Congress or Asia Cup are required to conform at all times to the highest standards of ethics and deportment. The APBF expects all teams and partnerships to play to win at all times and in all circumstances. All contestants (including non-playing captains) are also expected to accept the decisions made by the championship authorities in a courteous and sportsmanlike manner.
 
+While a team may rest its players and make other decisions for strategic reasons, it is not permissible for a partnership to play by design to obtain a session score inferior to that of its opponents, and the Tournament Appeals Committee shall have the authority to determine on such evidence as it considers sufficient whether a partnership has done so. Any such finding will constitute grounds for such penalties as may be imposed by the Appeals Committee, which shall also be empowered to recommend to the SCBA disqualify or suspend the offending contestant(s).
+
 ### 6.2 Looking at Partner
 Players are requested not to look at their partners during play of a hand. The objective is to avoid any suggestion of unethical communication.
 
@@ -161,8 +157,7 @@ It is mandatory for all participants to follow the WBF Anti-Doping regulations a
 Contestants in Singapore National Championships are expected to be appropriate dressed, to show respect for other contestants and also to project the right image for Bridge as an IOC Sport. Appropriately dress during play would, for example, be open necked shirt, or a smart polo or sweatshirt worn with trousers or skirt as appropriate.
 
 ## 9. Restrictions
-The following restrictions apply to the playing areas (see definition of these areas in Section
-2.15).
+The following restrictions apply to the playing areas (see definition of these areas in Section 2.15).
 
 ### 9.1 Smoking and Alcohol
 Smoking and the consumption of alcoholic beverages of any nature in the playing area are prohibited. No player may leave the playing area in order to smoke or consume alcohol before the end of his match. Any player or team official smoking or consuming alcohol before, during or after the session in these areas will result in his team being fined 2 VPs, or in the case of pairs events, will result in his partnership being fined 25% of the match points available on a board during the session. Constant violation of this regulation will result in the player being prohibited from playing and in the team official not being admitted into the playing area.
@@ -189,24 +184,27 @@ Registration of Convention Cards with the APBF gives the APBF the right to publi
 ### 13.2 Requirements
 Contestants are required to make full written disclosure of their System and also to make a full disclosure of the meaning of any call or play in response to a proper question at the table from an opponent. The Supplementary Conditions of Contest will set forth detailed procedures for that disclosure, in accordance with the WBF Systems Policy and in addition to rules established in these Conditions of Contest.
 The full written disclosure referred to in the above paragraph is made by the completion in due form of the WBF Convention Card and Supplementary Sheets as required. Partnerships are required to file their Convention Cards and Supplementary Sheets in accordance with the Supplementary Conditions of Contest. A Card will not be regarded as having been completed in due form for the purposes of this section unless:
+
 a) all sections of the Card have been accurately and legibly completed, in English, in accordance with the Guide to Completion, these Conditions of Contest, and the Supplementary Conditions of Contest;
+
 b) the Card and Supplementary Sheets contain a clear and sufficient explanation of the System used, including, without limitation, all competitive agreements and understandings, it being accepted by the APBF that the full particulars of some sequences (such as relays) which occur in later rounds of the auction, may be omitted from the Card without such omission constituting a breach of the requirement that the Card contain a clear and sufficient explanation of the System;
+
 c) the type of System and its appropriate colour are duly indicated in the prescribed place on the Card.
+
 d) any appropriate Brown Sticker or other forms required by the WBF Systems Policy are fully completed and appended to the Card.
 
 ## 13.3 Supplementary Sheets
 a) The WBF Convention Card may be supplemented by the addition of Supplementary Sheets. The function of the Supplementary Sheets is to facilitate the full disclosure of Systems and the relationship of material on a Supplementary Sheet to material on a Card should be clearly indicated by corresponding numbers on both the Card and the Supplementary Sheet.
+
 b) The number of Supplementary Sheets allowed, as well as the procedures for amendment and variation of Convention Cards will be set forth in the Supplementary Conditions of Contest.
 
 ## 13.4 General
 a) If a player makes use of any conventional call not sufficiently described on his Card (including Supplementary Sheets), that player’s partnership may be subject to a procedural penalty (Law 90) for the infraction and/or to disciplinary penalty as well as to score adjustments to redress any damage.
+
 b) The onus of disclosure is on the user. When there is a claim of damage through inadequate disclosure, the Tournament Director will give the benefit of any doubt to the opponents.
 
 ## 14. Use of Convention Card at Table
-Unless otherwise set forth in the Supplementary Conditions of Contest, each member of a pair must hand to one of his opponents at the table during each Session of an event his duly completed Card and Supplementary Sheet(s) (incorporating any variations made pursuant to
-
-the provisions of the Supplementary Conditions of Contest for a specific National Championships) which shall contain in the designated place on the Card an indication of the appropriate colour. These are to be reclaimed at the end of the Session. After withdrawing his cards from the board and until they are restored at the conclusion of the play, a player may not consult his own Card or Supplementary Sheets. He may consult the WBF Convention Booklet in respect of a call made by an opponent, but not in respect of a call made by his partner, or one made or contemplated by himself, and he may consult written defences against Brown sticker conventions and HUM-aspects in his
-opponents system.
+Unless otherwise set forth in the Supplementary Conditions of Contest, each member of a pair must hand to one of his opponents at the table during each Session of an event his duly completed Card and Supplementary Sheet(s) (incorporating any variations made pursuant to the provisions of the Supplementary Conditions of Contest for a specific National Championships) which shall contain in the designated place on the Card an indication of the appropriate colour. These are to be reclaimed at the end of the Session. After withdrawing his cards from the board and until they are restored at the conclusion of the play, a player may not consult his own Card or Supplementary Sheets. He may consult the WBF Convention Booklet in respect of a call made by an opponent, but not in respect of a call made by his partner, or one made or contemplated by himself, and he may consult written defences against Brown sticker conventions and HUM-aspects in his opponents system.
 
 ## 15. Alerts and Explanations
 An alertable call is defined in the WBF Alerting Policy (see Appendix 2: WBF Alerting Policy). Subject to the provisions of Section 25.2 when screens are in use, the partner of a player who has made an alertable call must immediately alert his opponents unless they have stated, before the auction started on the first board of the set that they do not wish to be alerted. It is the responsibility of the alerting player to alert clearly. No explanation of the meaning of the alertable call should be made unless requested by an opponent. Request for explanation of an alertable call may be deferred until later in the auction, or until after the auction has closed in accordance with Law 20.
@@ -221,8 +219,11 @@ A non-playing captain (NPC) may observe his team during play subject to the rule
 
 #### 17.2 Procedure during matches
 a) A NPC who leaves the room, except as provided in this Section, cannot return during that Session. Exceptionally, if the NPC is requested to leave the playing room (for the purpose of consultation or for whatever reason) by a Tournament Director, the President, or the Chairman of the Organising Committee, he may (but need not) be permitted to return to that playing room at the discretion of the Tournament Director.
+
 b) A NPC is bound to the same restrictions as spectators (Law 76), except that he may intervene to restrain misbehaviour or curtail unnecessary discussion on the part of his team members, and may with the concurrence of the Tournament Director speak to questions of fact or law, after the Tournament Director has been called to the table, but may not call the Tournament Director.
+
 c) During the time allowed for a Session, whether play is actually taking place at the moment or not, a NPC should not address members of his team at the table in any but the English language or in a language understood by the opponents. If it is desired to use a language other than English, the permission of the opponents should be sought, and, where reasonably possible, should be given. If difficulty arises, a NPC wishing to speak to his team in a language not known to the opponents should do so through an interpreter or team member who can translate for the benefit of the opponents.
+
 d) At any time when a comparison of scores is allowed a non-playing Captain may draw his players’ attention to his observation of an infraction but he is bound as a spectator by Law 76B until that time.
 
 ### 17.3 Delegation of responsibility by the NPC
@@ -256,8 +257,7 @@ When a board has been fouled, the Tournament Director shall determine where the 
 ## 23. Bidding Boxes, BridgeMates and other devices
 
 ### 23.1 Bidding boxes
-The use of bidding boxes is mandatory throughout an National Championships. Starting with the dealer, players place the bidding cards on the table in front of them, from the left and neatly overlapping so that all calls are visible and faced towards partner; players should refrain from touching any bidding cards until they have determined their call. A call is considered to have been made when the bidding card(s) is removed from the bidding box with apparent intent (but Law 25 may apply and if a player’s mind was elsewhere as he makes an unintended call the ‘pause for thought’ should be assessed from the moment when he first recognises his error). Alerts should be made by the use of the alert card; it is the responsibility of the alerting player to ensure that his opponents are aware of the Alert. STOP card is NOT to be used. After a skip bid an opponent may pause as though the STOP card has been used. Until they are removed from the table, a player obtains a review of the auction by inspecting the bidding cards. When such inspection is not feasible a player may obtain a written review of the auction at his first turn to play to trick one. If a player whose pass will conclude the auction removes his bidding cards from the table he is deemed to have passed.
-If screens are in use the foregoing is modified - see Section 26.
+The use of bidding boxes is mandatory throughout an National Championships. Starting with the dealer, players place the bidding cards on the table in front of them, from the left and neatly overlapping so that all calls are visible and faced towards partner; players should refrain from touching any bidding cards until they have determined their call. A call is considered to have been made when the bidding card(s) is removed from the bidding box with apparent intent (but Law 25 may apply and if a player’s mind was elsewhere as he makes an unintended call the ‘pause for thought’ should be assessed from the moment when he first recognises his error). Alerts should be made by the use of the alert card; it is the responsibility of the alerting player to ensure that his opponents are aware of the Alert. STOP card is NOT to be used. After a skip bid an opponent may pause as though the STOP card has been used. Until they are removed from the table, a player obtains a review of the auction by inspecting the bidding cards. When such inspection is not feasible a player may obtain a written review of the auction at his first turn to play to trick one. If a player whose pass will conclude the auction removes his bidding cards from the table he is deemed to have passed. If screens are in use the foregoing is modified - see Section 26.
 
 ### 23.2 BridgeMates and other devices used for the recording of matches
 BridgeMate IIs are currently used for the official recording of the scores throughout the National Championships. This recording is the responsibility of the team sitting North/South at each table. The E/W pair will be responsible for agreeing the score by keying in their confirmation. The official score will be that keyed in by N/S and agreed by E/W. Players and Captains are reminded that they are responsible for the accuracy of their own scores. Repeated violation of correct entering procedures may be subject to penalties.
@@ -272,11 +272,7 @@ Score corrections may be made as sanctioned in Law 79 and in Laws 69 and 71. An 
 
 ## 25. Play of the Cards
 
-During the course of play, each card should be played towards partner in a consistent
-manner and placed on the table in the same position each time so that it can be seen by all
-players at the table. Quitted tricks should be placed consistently in a neat row in front of the
-player, evenly overlapping with tricks won pointing towards partner and tricks lost pointing
-towards the opponents.
+During the course of play, each card should be played towards partner in a consistent manner and placed on the table in the same position each time so that it can be seen by all players at the table. Quitted tricks should be placed consistently in a neat row in front of the player, evenly overlapping with tricks won pointing towards partner and tricks lost pointing towards the opponents.
 
 ## 26. Screen Regulations
 
@@ -287,30 +283,37 @@ The North and East players sit on the same side of the screen throughout. It is 
 
 ### 26.2 Alerts and Explanations
 a) A player who makes an alertable call as defined in Appendix 2 must alert his screen-mate, and partner must alert on the other side of the screen when the bidding tray arrives there. The alert must be made by placing the Alert Card over the last call of the screen-mate, in his segment of the bidding tray; the alerted player must acknowledge by returning the Alert Card to his opponent. A player may, by written question, ask for an explanation of an opponent’s call; the screen-mate then provides a written answer.
-b) At any time during the Auction a player may request of his screen mate, in
-writing, a full explanation of an opponent's call. The reply is also in writing.
-c) At all times from the commencement of the Auction to the completion of
-play each player receives information only from his screen mate about the
-meanings of calls and explanations given. Questions during the play period
-should be in writing with the aperture closed. The screen is raised after
-the response has been made. Therefore the tournament director cannot
-make enquiries on a player’s behalf on the other side of the screen during
-the auction or play.
+
+b) At any time during the Auction a player may request of his screen mate, in writing, a full explanation of an opponent's call. The reply is also in writing.
+
+c) At all times from the commencement of the Auction to the completion of play each player receives information only from his screen mate about the meanings of calls and explanations given. Questions during the play period should be in writing with the aperture closed. The screen is raised after the response has been made. Therefore the tournament director cannot make enquiries on a player’s behalf on the other side of the screen during the auction or play.
 
 ## 26.3 Modifications of Laws when Screens are in Use
 a) An irregularity passed through the screen is subject to the normal laws, with the following provisions:
+
 	i) an inadmissible call - see Law 35 - must be corrected.
+	
 	ii) if a player infringes the law and, inadvertently (otherwise Law 23 mayapply), the irregularity is passed through the screen by his screen mate the latter has accepted the action on behalf of his side in situations where the laws permit LHO to accept it.
 b) Before an irregularity is passed through the screen the offender or his screen mate shall draw the Director’s attention to it. Infringing calls shall not be accepted and shall be put right without other rectification (but see (a)(ii) above); any other irregularity shall be rectified and the Director ensures that only the legal auction is passed through the screen. No player on the other side of the screen shall be informed of the occurrence unless the application of a law requires it.
+
 c) The screen mate should attempt to prevent an opening lead out of turn. Any opening lead out of turn shall be withdrawn without other rectification if the screen has not been opened. Otherwise:
+
 	i) when the screen has been opened through no fault of the declaring side (and the other defender has not led face up) Law 54 applies. 
+	
 	ii) when the declaring side has opened the screen the lead is accepted. The presumed declarer becomes the actual declarer, Law 23 may apply.
+	
 	iii) when two opening leads are faced by the defending side the incorrect lead is a major penalty card.
+	
 	iv) for a card faced by the declaring side see Law 48.
+	
 d) When an alertable call is made see 26.2 above.
+
 e) When a player takes more than a normal time to make his call, it is not an infraction if he draws attention to the break in tempo. His screen mate, however, shall not do so.
+
 f) If a player on the side of the screen receiving the tray considers there has been a break in tempo and consequently there may be unauthorised information he should, under Law 16B2, call the director. He may do so at any time before the opening lead is made and the screen opened.
+
 g) Failure to do so as F provides may persuade the Director it was the partner who drew attention to the break in tempo. If so he may well rule there was no perceived delay and thus no unauthorised information. A delay in passing the tray of up to 20 seconds is not regarded as significant.
+
 h) However, if the players have not been randomising the tempo of the auction as desired by section 26.1 paragraph 2, then a delay of less than 20 seconds may well be regarded as being significant.
 
 ## 27. Duplicated Boards
@@ -321,15 +324,25 @@ Whenever possible, duplicated boards will be used throughout all National Champi
 
 Subject to any supplementary regulations made by the Executive Committee or special permission of the President, only the following are permitted to enter the playing rooms:
 a) participants assigned to play in that room;
+
 b) Tournament Directors;
+
 c) personnel needed to operate these tournaments, including assigned recorders, scorers, timers, caddies and Vu-Graph personnel;
+
 d) the President;
+
 e) Chairman of the Organising Committee;
+
 f) The Reviewer or his assistants;
+
 g) staff personnel for provision of refreshment and room cleaning, if necessary;
+
 h) "Officials on duty" appointed for a specific session or sessions by the President;
+
 i) a maximum of two members of the Daily Bulletin staff to be named by its Editor;
+
 j) a maximum of eight approved journalists who have been accredited by the President (or his designee). The assignments of places in the playing rooms to those in categories (i) and (j) shall be made by the Editor of the Daily Bulletin subject to the following rules: (There are a maximum of 10 individuals who represent categories (i) and (j). For purposes of the following, those 10 are considered a single group and members of it are referred to as "representatives").
+
 * Except by permission of the President, not more than one "representative" shall be at any table at the same time; preference will be given to category (i).
 * The "representative" must enter the room before the session begins, must remain on the same side of the screen throughout the session and, should he leave before the end of the session, may not re-enter any playing rooms.
 * "Representatives" in categories (i) and (j) may be assigned to Open and Closed Rooms.
