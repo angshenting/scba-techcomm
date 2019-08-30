@@ -7,11 +7,11 @@ July 2019
 
 ## 1. Preamble
 
-These Conditions of Contest are the standard regulations which apply to all Singapore National Championships and other events organized by the Singapore Contract Bridge Assocation.
+These Conditions of Contest are the standard regulations which apply to all Singapore National Championships and other events organized by the Singapore Contract Bridge Association.
 																	  
 The WBF Systems Policy, the WBF Alerting Policy, the WBF Policy on Psychic Bidding, the WBF Code of Practice and the WBF Anti-Doping Regulations are part of the Conditions of Contest for all Singapore National Championships and are annexed to these General Conditions of Contest. SCBA may also issue Supplementary Conditions of Contest further to regulate particular championships in accordance with their characteristics. In the event of any inconsistency between these Conditions of Contest and any Supplementary Conditions of Contest, the Supplementary Conditions of Contest shall prevail.
 
-Expressions used in these Conditions of Contest and not defined shall have their ordinary meaning in contract bridge terminology (which may include expressions defined in the Laws of Duplicate Bridge 2017). In the event of any doubt or dispute as to such meaning, the decision of the event’s Organising Committee shall be final and conclusive. The singular shall include the plural and vice-versa and reference to one gender shall include the other.
+Expressions used in these Conditions of Contest and not defined shall have their ordinary meaning in contract bridge terminology (which may include expressions defined in the Laws of Duplicate Bridge 2017). In the event of any doubt or dispute as to such meaning, the decision of the SCBA Technical Subcommittee shall be final and conclusive. The singular shall include the plural and vice-versa and reference to one gender shall include the other.
 
 ## 2. Definitions For The General Conditions Of Contest
 Unless repugnant to the context or obvious meaning, the following expressions where used in these Conditions of Contest shall have the following meanings:
@@ -23,7 +23,16 @@ means the Singapore Contract Bridge Association, as registered under the Registr
 means the form prescribed by SCBA for the lodging of appeals at a Singapore National Championship.
 
 ### 2.3 Singapore National Championships
-means any event so designated by the SCBA from time to time and if the context permits, also means the totality of such events scheduled for play at a particular site. The event should generally commence sometime between May 1 and June 30. Within these limits, actual dates are left to the convenience of the host NBO. However, the host NBO should circulate approximate dates by November 1 of the previous year.
+means any event so designated by the SCBA in its annual calendar. These include but are not limited to: 
+* Singapore Open Teams
+* Singapore Open Pairs
+* Any event at Easter Congress Championships
+* Any event at Pesta Sukan Championships
+* National Handicap Teams
+* National IMP Pairs
+* National MP Teams
+* National Youth Teams
+
 
 ### 2.4 Brown Sticker Announcement Form
 means the form designed for the announcement of Brown Sticker Conventions (bids, overcalls and subsequent auction) as referred to in the WBF Systems Policy.
@@ -39,7 +48,7 @@ means a Director as defined in the Laws of Duplicate Bridge 2017 appointed by SC
 means the Executive Committee of the SCBA established under the Constitution and By-Laws of the SCBA.
 
 ### 2.8 Guide to Completion
-means the publication of that name issued by the WBF to instruct players in the correct completion of WBF Convention Cards for an APBF Championship or Congress, or Asia Cup, copies of which may be obtained from the APBF Systems Administrator whose address can be found in the Supplementary Conditions of Contest.
+means the publication of that name issued by the WBF to instruct players in the correct completion of WBF Convention Cards.
 
 ### 2.9 Highly Unusual Methods (HUM)
 mean any of the systemic agreements so described in the WBF Systems Policy.
@@ -54,22 +63,22 @@ means a Law contained in the Laws of Duplicate Bridge 2017.
 means the facility set up at the site of a National Championship for the teams to register their Line-ups and for the provision of other services relating thereto.
 
 ### 2.15 Playing Area
-the area defined by the APBF which may include the lobby in the immediate vicinity of the actual playing rooms, the toilets adjoining the playing rooms which are designated for the use of the players and any other rooms/lobby areas to be decided on site. Such areas will be identified to the participants through the Souvenir Programme or the Daily Bulletin at the Championships.
+the area defined by the SCBA which may include the lobby in the immediate vicinity of the actual playing rooms, the toilets adjoining the playing rooms which are designated for the use of the players and any other rooms/lobby areas to be decided on site. Such areas will be identified to the participants through the Chief TD.
 
 ### 2.16 President
 means the President of the SCBA.
 
 ### 2.17 Reviewer and His Assistants
-The reviewer and his assistant(s) are appointed by the APBF President before the start of the championship and will review the TD’s rulings where required to do so.
+The reviewer and his assistant(s) are appointed by the SCBA President before the start of the championship and will review the TD’s rulings where required to do so.
 
 ### 2.18 Schedule of Play
-means the schedule for the play of an Asia Pacific Bridge Federation Championship or Congress or Asia Cup, either as contained in the Supplementary Conditions of Contest or as subsequently determined by the APBF.
+means the schedule for the play of an National Championship, either as contained in the Supplementary Conditions of Contest or as subsequently determined by the SCBA.
 
 ### 2.19 Session
 means a segment of play (as prescribed by the Schedule of Play) after which scores are computed.
 
 ### 2.20 Supplementary Conditions of Contest
-means the additional Conditions of Contest issued from time to time by the APBF for the further regulation of APBF Championships & Congress and Asia Cup.
+means the additional Conditions of Contest issued from time to time by the SCBA for the further regulation of a National Championship or other events organized by the SCBA.
 
 ### 2.21 Supplementary Sheets
 means such additional pages containing system details as are annexed to and form part of WBF Convention Cards in accordance with these and the Supplementary Conditions of Contest.
@@ -90,14 +99,13 @@ means the World Bridge Federation, an International Sport Federation recognised 
 means the Policy, issued by the WBF from time to time and adopted by the APBF, that regulates the alerting procedure in an National Championships (see Appendix 2: WBF Alerting Policy)
 
 ### 2.27 WBF Convention Card or Card
-means the Convention Card authorised by the WBF and adopted by the APBF for the disclosure of Systems by contestants in an APBF Championship or
-Congress or Asia Cup and includes Supplementary Sheets.																	   
+means the Convention Card authorised by the WBF and adopted by the APBF and SCBA for the disclosure of Systems by contestants in a National Championship and includes Supplementary Sheets.																	   
 
 ### 2.28 WBF Convention Booklet
-means the definition of bidding conventions published under that name by the WBF and adopted by the APBF for use by contestants in an National Championships in conjunction with the WBF Convention Cards. For the interpretation of these General Conditions any special partnership understanding is included in the terms "convention", "conventional call", "conventional play", "conventional agreement" or the like. The Convention Booklet is contained within the WBF Guide to Completion of the Convention Card (see Section 2.8).
+means the definition of bidding conventions published under that name by the WBF and adopted by the APBF and SCBA for use by contestants in an National Championships in conjunction with the WBF Convention Cards. For the interpretation of these General Conditions any special partnership understanding is included in the terms "convention", "conventional call", "conventional play", "conventional agreement" or the like. The Convention Booklet is contained within the WBF Guide to Completion of the Convention Card (see Section 2.8).
 
 ### 2.29 WBF Policy on Psychic Bidding
-means the policy, issued by the WBF from time to time and adopted by the APBF, that specifies the APBF’s Policy with regard to Psychic Bidding (see Appendix 3: WBF Psychic Bidding Policy).
+means the policy, issued by the WBF from time to time and adopted by the APBF and SCBA, that specifies the APBF’s Policy with regard to Psychic Bidding (see Appendix 3: WBF Psychic Bidding Policy).
 
 ### 2.30 WBF Systems Policy
 means the Policy, issued by the WBF from time to time and adopted by the APBF that regulates the use of Systems in an National Championships Championship (see Appendix 1: WBF Systems Policy and APBF Adoption).
@@ -121,7 +129,7 @@ All contestants must agree, in the interest of promoting goodwill and for the pr
 ## 4. Eligibility
 
 ### 4.1 General
-To be eligible for participation in a National Championship, a competitor must comply with the Olympic Charter as well as with the rules of the APBF, and must be entered by his NBO. He must notably respect the spirit of fair play and ethics, and behave accordingly.
+To be eligible for participation in a National Championship, a competitor must comply with the Olympic Charter as well as with the rules of SCBA. He must notably respect the spirit of fair play and ethics, and behave accordingly. SCBA reserves the rights to bar entry to a competitor in the event of non-compliance with the above.
 
 ### 4.4 Over-Riding Eligibility Regulations
 The Supplementary Conditions for a specific event may specify over-riding Eligibility Regulations based on residency qualifications which prevail for that particular championship or congress.
@@ -140,7 +148,7 @@ The Laws printed in English will be used by the Tournament Directors to adjudica
 ## 6. Ethics And Deportment
 
 ### 6.1 Player’s Obligation
-All contestants in APBF Championships or Congress or Asia Cup are required to conform at all times to the highest standards of ethics and deportment. The APBF expects all teams and partnerships to play to win at all times and in all circumstances. All contestants (including non-playing captains) are also expected to accept the decisions made by the championship authorities in a courteous and sportsmanlike manner.
+All contestants in SCBA National Championships are required to conform at all times to the highest standards of ethics and deportment. The SCBA expects all teams and partnerships to play to win at all times and in all circumstances. All contestants (including non-playing captains) are also expected to accept the decisions made by the championship authorities in a courteous and sportsmanlike manner.
 
 While a team may rest its players and make other decisions for strategic reasons, it is not permissible for a partnership to play by design to obtain a session score inferior to that of its opponents, and the Tournament Appeals Committee shall have the authority to determine on such evidence as it considers sufficient whether a partnership has done so. Any such finding will constitute grounds for such penalties as may be imposed by the Appeals Committee, which shall also be empowered to recommend to the SCBA disqualify or suspend the offending contestant(s).
 
@@ -163,14 +171,12 @@ The following restrictions apply to the playing areas (see definition of these a
 Smoking and the consumption of alcoholic beverages of any nature in the playing area are prohibited. No player may leave the playing area in order to smoke or consume alcohol before the end of his match. Any player or team official smoking or consuming alcohol before, during or after the session in these areas will result in his team being fined 2 VPs, or in the case of pairs events, will result in his partnership being fined 25% of the match points available on a board during the session. Constant violation of this regulation will result in the player being prohibited from playing and in the team official not being admitted into the playing area.
 
 ### 9.2 Mobile Phones and Electronic Devices
-Mobile telephones and electronic devices may not be brought into the playing area and toilets. Any player or team official bringing such an item into these areas will result in his team being fined 2 VPs or in the case of pairs events, will result in his partnership being fined 25% of the match points available on a board during the session. This penalty is mandatory. Constant violation of this regulation will result in the player being prohibited from playing and in the team official not being admitted into the playing area. The Chief Tournament Director may, at his discretion, prohibit a player from bringing other equipment into the playing area. Anyone entering the playing area may be required to comply with procedures put in place by the APBF for the detection of such electronic equipment. See also Section 28.1 for restrictions pertaining to spectators.
+Mobile telephones and electronic devices may not be used in the playing area and toilets. Any player or team official using such an item in these areas will result in his team being fined 2 VPs, or 10 IMPs, or in the case of pairs events, will result in his partnership being fined 25% of the match points available on a board during the session. This penalty is mandatory. Constant violation of this regulation will result in the player being prohibited from playing and in the team official not being admitted into the playing area.  
+The Chief Tournament Director may, at his discretion, prohibit a player from bringing other equipment into the playing area. Anyone entering the playing area may be required to comply with procedures put in place by SCBA for the detection of such electronic equipment.  
 The Chief Tournament Director will arrange for random checks of players and team officials to ensure that there is compliance with these prohibitions. Refusal to submit to these checks will bar the individual concerned from the playing area and toilet area for the duration of the match or until such time as the Chief Tournament Director in consultation with the Executive Committee shall decide.
 
 ## 10. Disqualification from any National Championships
 Should a team, pair or individual play be disqualified as a result of a decision made by the Executive Committee, no refund of the entry fees, either in part or in whole, will be made.
-
-## 11. Vu-Graph
-All contestants are required to play on Vu-Graph whenever assigned to do so by the President or his designee. In the absence of any contrary stipulation, the room from which play is broadcast to the Vu-Graph audience shall be the Open Room.
 
 ## 12. Media Presentation
 Players are required to participate in any public presentation of matches, interviews etc
@@ -178,10 +184,7 @@ arranged by the APBF, including video, Internet, TV, radio or any other media pr
 
 ## 13. Completion of WBF Convention Card
 
-### 13.1 Publication of Systems
-Registration of Convention Cards with the APBF gives the APBF the right to publish such convention cards via Internet or to any parties at the Championship or Congress or Asia Cup in such form as it sees fit. When full systems are registered on site, for the purposes of providing additional information, these will not be published by the APBF to persons other than those requiring them for the purpose of running the Tournament.
-
-### 13.2 Requirements
+### 13.1 Requirements
 Contestants are required to make full written disclosure of their System and also to make a full disclosure of the meaning of any call or play in response to a proper question at the table from an opponent. The Supplementary Conditions of Contest will set forth detailed procedures for that disclosure, in accordance with the WBF Systems Policy and in addition to rules established in these Conditions of Contest.
 The full written disclosure referred to in the above paragraph is made by the completion in due form of the WBF Convention Card and Supplementary Sheets as required. Partnerships are required to file their Convention Cards and Supplementary Sheets in accordance with the Supplementary Conditions of Contest. A Card will not be regarded as having been completed in due form for the purposes of this section unless:
 
@@ -246,7 +249,7 @@ If a team is unable to play or complete a match, the Executive Committee may fin
 A "substitute board" is one introduced into play in a session or a match, to replace a board already played at one or both tables. Depending upon the decision of the Chief Tournament Director, the results of a substitute board may, or may not, be counted as part of the session or match. Substitute boards are put into play by the Tournament Director either on his own volition or by direction of the Chief Tournament Director.
 
 ## 22. Fouled Boards
-A board is considered "fouled" if the Tournament Director determines that one or more cards were misplaced in the board in such a manner that contestants who should have direct comparison did not play the board in identical form. If in a team event a pre-duplicated board is wrongly dealt and Law 13 of the Laws of Duplicate Bridge 2007 applies in such a way that the board cannot be played, the board is considered to be a fouled board.
+A board is considered "fouled" if the Tournament Director determines that one or more cards were misplaced in the board in such a manner that contestants who should have direct comparison did not play the board in identical form. If in a team event a pre-duplicated board is wrongly dealt and Law 13 of the Laws of Duplicate Bridge 2017 applies in such a way that the board cannot be played, the board is considered to be a fouled board.
 
 ### 22.1 Fouled Boards in Team Tournaments
 A board is not considered fouled if the boards played in the same match are identical even though that board may differ from the like numbered board played in simultaneous matches. In general, a fouled board should be replayed through the substitution of a new board. In addition, penalties will apply in certain circumstances (in accordance with the Supplementary Conditions of Contest). Replays through the substitution of one new board shall not be permitted after the result of a match may be known to the contestants, as to which circumstances the Tournament Director's decision shall be binding. That match is scored as though the board had never been played. The same rules apply whenever a substitute board would normally be played, for example, when the Executive Committee nullifies a board. When the Tournament Director has reason to believe the Executive Committee may wish to have a substitute board played in the final session of a match, he should have a provisional board played during the session with an extra time allowance of 8 minutes. The Tournament Director, on his own volition, may instruct that a provisional board be played pending a future decision. Example: if the 7th board in a 16-board match is fouled and the error is discovered when the contestants are computing the result of the match, the board is disregarded and the match is scored as though it consisted of only 15 boards, no additional IMPs will be awarded.
@@ -353,9 +356,6 @@ The Executive Committee may increase the number of the approved journalists spec
 
 An individual who observes an irregularity when a spectator is subject to the inhibition in Law 76B until a ruling on the board may no longer be sought. "Representatives" are spectators, as also are other non-participants observing the play.
 
-### 28.1 Restrictions
-The following restrictions apply to the playing areas (see definition of these areas in Section 2.16). Spectators are not permitted to smoke or consume any alcoholic drinks in these areas, nor may they bring mobile telephones, pagers or other electronic equipment into these areas. Spectators contravening any of these regulations will be required to leave the playing area immediately and will not be permitted to return for the remainder of the Championships without specific permission from the Chief Tournament Director. The Chief Tournament Director may, at his discretion, prohibit a spectator from bringing other equipment into the playing area. Anyone entering the playing area may be required to comply with procedures put in place by the APBF for the detection of such electronic equipment.
-
 ## 29. Rulings
 The Tournament Director shall be summoned to a table as soon as attention is drawn to an irregularity. After the Director has given the ruling, a request for a review may be made.
 
@@ -383,7 +383,6 @@ The interpretation of these Conditions of Contest or any Supplementary Condition
 
 ## 34 Eligibility For Awards
 The SCBA will establish, for each National Championships, a scale of SCBA Master Points Awards in accordance with the SCBA Master Point Plan. Gold, Silver and Bronze Medals will normally be awarded for SCBA National Championships. In SCBA National Championships in all events, the highest-ranking team after the round robins will be awarded the Gold Medal and/or Trophy, the 2nd ranking team will be awarded the Silver Medal and/or Trophy, and the 3rd ranking team will be awarded the Bronze Medal and/or Trophy. In SCBA Congress in all team events, the winning team in the final will be awarded the Gold Medal and/or Trophy. The losing finalists will be awarded the Silver Medal. For the play off regulations to determine the Bronze Medallists, see Section 37. In all pair events, the winning pair shall be awarded the Gold Medal and/or Trophy or prize, the second placed pair shall be awarded the Silver Medal and the third placed pair the Bronze Medal.
-
 
 ## 36 Authority of the SCBA Executive Committee
 The SCBA Executive Committee reserves the authority to modify or supplement these Conditions of Contest and the Supplementary Conditions of Contest, at any time.
