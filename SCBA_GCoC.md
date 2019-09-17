@@ -3,7 +3,8 @@
 ## General Conditions of Contest
 
 Issued by the Singapore Contract Bridge Association
-July 2019
+
+September 2019
 
 ## 1. Preamble
 
@@ -22,7 +23,7 @@ means the Singapore Contract Bridge Association, as registered under the Registr
 ### 2.2 Appeal Form
 means the form prescribed by SCBA for the lodging of appeals at a Singapore National Championship.
 
-### 2.3 Singapore National Championships
+### 2.3 Singapore National Championship
 means any event so designated by the SCBA in its annual calendar. These include but are not limited to: 
 * Singapore Open Teams
 * Singapore Open Pairs
@@ -87,7 +88,7 @@ means such additional pages containing system details as are annexed to and form
 means all agreements and understandings a pair has as to the meaning of any call or play as those respective expressions are defined in the Laws of Duplicate Bridge 2017.
 
 ### 2.23 System Desk
-means the facility set up at the site of an National Championships for the filing of systems and for the provision of other services relating thereto.
+means the facility set up at the site of a National Championship for the filing of systems and for the provision of other services relating thereto.
 
 ### 2.24 These Conditions of Contest
 means these General Conditions of Contest.
@@ -96,35 +97,35 @@ means these General Conditions of Contest.
 means the World Bridge Federation, an International Sport Federation recognised by the IOC and incorporated in Switzerland.
 
 ### 2.26 WBF Alerting Policy
-means the Policy, issued by the WBF from time to time and adopted by the APBF, that regulates the alerting procedure in an National Championships (see Appendix 2: WBF Alerting Policy)
+means the Policy, issued by the WBF from time to time and adopted by the APBF, that regulates the alerting procedure in a National Championship (see Appendix 2: WBF Alerting Policy)
 
 ### 2.27 WBF Convention Card or Card
 means the Convention Card authorised by the WBF and adopted by the APBF and SCBA for the disclosure of Systems by contestants in a National Championship and includes Supplementary Sheets.																	   
 
 ### 2.28 WBF Convention Booklet
-means the definition of bidding conventions published under that name by the WBF and adopted by the APBF and SCBA for use by contestants in an National Championships in conjunction with the WBF Convention Cards. For the interpretation of these General Conditions any special partnership understanding is included in the terms "convention", "conventional call", "conventional play", "conventional agreement" or the like. The Convention Booklet is contained within the WBF Guide to Completion of the Convention Card (see Section 2.8).
+means the definition of bidding conventions published under that name by the WBF and adopted by the APBF and SCBA for use by contestants in a National Championship in conjunction with the WBF Convention Cards. For the interpretation of these General Conditions any special partnership understanding is included in the terms "convention", "conventional call", "conventional play", "conventional agreement" or the like. The Convention Booklet is contained within the WBF Guide to Completion of the Convention Card (see Section 2.8).
 
 ### 2.29 WBF Policy on Psychic Bidding
 means the policy, issued by the WBF from time to time and adopted by the APBF and SCBA, that specifies the APBF’s Policy with regard to Psychic Bidding (see Appendix 3: WBF Psychic Bidding Policy).
 
 ### 2.30 WBF Systems Policy
-means the Policy, issued by the WBF from time to time and adopted by the APBF that regulates the use of Systems in an National Championships Championship (see Appendix 1: WBF Systems Policy and APBF Adoption).
+means the Policy, issued by the WBF from time to time and adopted by the APBF that regulates the use of Systems in a National Championship (see Appendix 1: WBF Systems Policy and APBF Adoption).
 
 ### 2.31 World Standard Card
-means the Card devised by the WBF and adopted by the APBF for use in specific circumstances defined in the Supplementary Conditions of Contest, copies of which will be available at an National Championships.
+means the Card devised by the WBF and adopted by the APBF for use in specific circumstances defined in the Supplementary Conditions of Contest, copies of which will be available at a National Championship.
 
 ## 3. Conditions of Entry
 
 ### 3.1 General
 All Singapore National Championships are conducted under the auspices of the SCBA and all events designated as National Championships shall be played in accordance with the Laws of Duplicate Bridge 2017. These Conditions of Contest, and any Supplementary Conditions of Contest, supplement the Laws of Duplicate Bridge 2017 as required.
 
-By participating in  Singapore National Championships, all contestants agree that all or part of any event may be filmed, recorded, or otherwise documented or publicised at the discretion of the SCBA. Entry in an National Championships and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championships involved. Furthermore, the offending contestant(s) shall be subject to suspension from participation in any future event conducted under the auspices of the SCBA for such period as the SCBA in its discretion shall determine.
+By participating in a Singapore National Championship, all contestants agree that all or part of any event may be filmed, recorded, or otherwise documented or publicised at the discretion of the SCBA. Entry in a National Championship and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championship involved. Furthermore, the offending contestant(s) shall be subject to suspension from participation in any future event conducted under the auspices of the SCBA for such period as the SCBA in its discretion shall determine.
 
 ### 3.2 Invitation to Participate
 It is at the discretion of the SCBA Management Committee to refuse to invite any player or non-playing captain whose name has been submitted for participation in A Singapore National Championship. In any such case of refusal, no reason shall be given by SCBA.
 
 ### 3.3 Goodwill and Proper Conduct
-All contestants must agree, in the interest of promoting goodwill and for the proper conduct of A Singapore National Championship, to compete against all other contestants. Entry in an National Championships and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championships involved. Furthermore, the offending contestant(s) shall be subject to suspension from participation in any future event conducted under the auspices of the SCBA for such period as the SCBA in its discretion shall determine.
+All contestants must agree, in the interest of promoting goodwill and for the proper conduct of A Singapore National Championship, to compete against all other contestants. Entry in a National Championship and subsequent refusal to play against any other team or contestant as required by the Schedule of Play shall result in immediate disqualification of any team, or of any contestant refusing to play. Such disqualification shall extend for the balance of the National Championship involved. Furthermore, the offending contestant(s) shall be subject to suspension from participation in any future event conducted under the auspices of the SCBA for such period as the SCBA in its discretion shall determine.
 
 ## 4. Eligibility
 
@@ -148,7 +149,7 @@ The Laws printed in English will be used by the Tournament Directors to adjudica
 ## 6. Ethics And Deportment
 
 ### 6.1 Player’s Obligation
-All contestants in SCBA National Championships are required to conform at all times to the highest standards of ethics and deportment. The SCBA expects all teams and partnerships to play to win at all times and in all circumstances. All contestants (including non-playing captains) are also expected to accept the decisions made by the championship authorities in a courteous and sportsmanlike manner.
+All contestants in Singapore National Championships are required to conform at all times to the highest standards of ethics and deportment. The SCBA expects all teams and partnerships to play to win at all times and in all circumstances. All contestants (including non-playing captains) are also expected to accept the decisions made by the championship authorities in a courteous and sportsmanlike manner.
 
 While a team may rest its players and make other decisions for strategic reasons, it is not permissible for a partnership to play by design to obtain a session score inferior to that of its opponents, and the Tournament Appeals Committee shall have the authority to determine on such evidence as it considers sufficient whether a partnership has done so. Any such finding will constitute grounds for such penalties as may be imposed by the Appeals Committee, which shall also be empowered to recommend to the SCBA disqualify or suspend the offending contestant(s).
 
@@ -175,7 +176,7 @@ Mobile telephones and electronic devices may not be used in the playing area and
 The Chief Tournament Director may, at his discretion, prohibit a player from bringing other equipment into the playing area. Anyone entering the playing area may be required to comply with procedures put in place by SCBA for the detection of such electronic equipment.  
 The Chief Tournament Director will arrange for random checks of players and team officials to ensure that there is compliance with these prohibitions. Refusal to submit to these checks will bar the individual concerned from the playing area and toilet area for the duration of the match or until such time as the Chief Tournament Director in consultation with the Executive Committee shall decide.
 
-## 10. Disqualification from any National Championships
+## 10. Disqualification from any National Championship
 Should a team, pair or individual play be disqualified as a result of a decision made by the Executive Committee, no refund of the entry fees, either in part or in whole, will be made.
 
 ## 12. Media Presentation
@@ -207,7 +208,7 @@ a) If a player makes use of any conventional call not sufficiently described on 
 b) The onus of disclosure is on the user. When there is a claim of damage through inadequate disclosure, the Tournament Director will give the benefit of any doubt to the opponents.
 
 ## 14. Use of Convention Card at Table
-Unless otherwise set forth in the Supplementary Conditions of Contest, each member of a pair must hand to one of his opponents at the table during each Session of an event his duly completed Card and Supplementary Sheet(s) (incorporating any variations made pursuant to the provisions of the Supplementary Conditions of Contest for a specific National Championships) which shall contain in the designated place on the Card an indication of the appropriate colour. These are to be reclaimed at the end of the Session. After withdrawing his cards from the board and until they are restored at the conclusion of the play, a player may not consult his own Card or Supplementary Sheets. He may consult the WBF Convention Booklet in respect of a call made by an opponent, but not in respect of a call made by his partner, or one made or contemplated by himself, and he may consult written defences against Brown sticker conventions and HUM-aspects in his opponents system.
+Unless otherwise set forth in the Supplementary Conditions of Contest, each member of a pair must hand to one of his opponents at the table during each Session of an event his duly completed Card and Supplementary Sheet(s) (incorporating any variations made pursuant to the provisions of the Supplementary Conditions of Contest for a specific National Championship) which shall contain in the designated place on the Card an indication of the appropriate colour. These are to be reclaimed at the end of the Session. After withdrawing his cards from the board and until they are restored at the conclusion of the play, a player may not consult his own Card or Supplementary Sheets. He may consult the WBF Convention Booklet in respect of a call made by an opponent, but not in respect of a call made by his partner, or one made or contemplated by himself, and he may consult written defences against Brown sticker conventions and HUM-aspects in his opponents system.
 
 ## 15. Alerts and Explanations
 An alertable call is defined in the WBF Alerting Policy (see Appendix 2: WBF Alerting Policy). Subject to the provisions of Section 25.2 when screens are in use, the partner of a player who has made an alertable call must immediately alert his opponents unless they have stated, before the auction started on the first board of the set that they do not wish to be alerted. It is the responsibility of the alerting player to alert clearly. No explanation of the meaning of the alertable call should be made unless requested by an opponent. Request for explanation of an alertable call may be deferred until later in the auction, or until after the auction has closed in accordance with Law 20.
@@ -218,7 +219,7 @@ Except in the case of initial action, whether offensive or defensive, showing tw
 ## 17. Non-Playing Captains in Team Tournaments
 
 ### 17.1 General
-A non-playing captain (NPC) may observe his team during play subject to the rules set forth in this Section and to any supplementary regulation made from time to time by the APBF before an National Championships begins. The NPC must enter the room before play begins at the start of a Session, and if the NPCs of both teams are in the room, they shall sit on the same side of the screen. In case of dispute the "Home Team" captain shall decide on which side of the screen they will sit. A NPC may observe play in the Closed Room at the discretion of the Chief Tournament Director.
+A non-playing captain (NPC) may observe his team during play subject to the rules set forth in this Section and to any supplementary regulation made from time to time by the APBF before a National Championship begins. The NPC must enter the room before play begins at the start of a Session, and if the NPCs of both teams are in the room, they shall sit on the same side of the screen. In case of dispute the "Home Team" captain shall decide on which side of the screen they will sit. A NPC may observe play in the Closed Room at the discretion of the Chief Tournament Director.
 
 #### 17.2 Procedure during matches
 a) A NPC who leaves the room, except as provided in this Section, cannot return during that Session. Exceptionally, if the NPC is requested to leave the playing room (for the purpose of consultation or for whatever reason) by a Tournament Director, the President, or the Chairman of the Organising Committee, he may (but need not) be permitted to return to that playing room at the discretion of the Tournament Director.
@@ -230,10 +231,10 @@ c) During the time allowed for a Session, whether play is actually taking place 
 d) At any time when a comparison of scores is allowed a non-playing Captain may draw his players’ attention to his observation of an infraction but he is bound as a spectator by Law 76B until that time.
 
 ### 17.3 Delegation of responsibility by the NPC
-NPCs are responsible for the performance of various functions detailed in these Conditions of Contest and the Supplementary Conditions of Contest. While the SCBA recognises the importance of other team officials (such as coach, etc.), it is only when they are specifically named by the NPC, and have been invited to participate in the relevant National Championships by the APBF, that they may perform certain of the official functions assigned to the NPC. Such additional team officials may not enter the playing rooms unless they obtain the permission of the APBF President and the President may impose conditions on such entrance in his discretion.
+NPCs are responsible for the performance of various functions detailed in these Conditions of Contest and the Supplementary Conditions of Contest. While the SCBA recognises the importance of other team officials (such as coach, etc.), it is only when they are specifically named by the NPC, and have been invited to participate in the relevant National Championship by the SCBA, that they may perform certain of the official functions assigned to the NPC. Such additional team officials may not enter the playing rooms unless they obtain the permission of the SCBA President and the President may impose conditions on such entrance in his discretion.
 
 ## 18. Substitutes in Team Tournaments
-If, for any reason, a team is unable to produce four players, either at the start of a session or because of an emergency that develops during the session, the Chief Tournament Director, in consultation with the captain of the team, may designate a substitute to complete the team. A substitute need not be a member of the NBO represented by the team on which he or she substitutes, but must not be a player from another team and may not be a male in the case of an event restricted to women.
+If, for any reason, a team is unable to produce four players, either at the start of a session or because of an emergency that develops during the session, the Chief Tournament Director, in consultation with the captain of the team, may designate a substitute to complete the team. A substitute need not be a member of the organization or club represented by the team on which he or she substitutes, but must not be a player from another team and may not be a male in the case of an event restricted to women or vice versa. The substitute should also be of the same gender in a Mixed or Super Mixed event.
 
 The Chief Tournament Director, having designated a substitute, shall inform the Tournament Organising Committee and the Executive Committee as soon as practicable. The results obtained by the substitute shall stand unless the Executive Committee judges that the substitute’s bridge skills were considerably greater than those of the player replaced, in which case an adjusted score may be determined. Whether or not the result stands, the Executive Committee may impose appropriate penalties when it judges a team to be at fault.
 
@@ -260,10 +261,10 @@ When a board has been fouled, the Tournament Director shall determine where the 
 ## 23. Bidding Boxes, BridgeMates and other devices
 
 ### 23.1 Bidding boxes
-The use of bidding boxes is mandatory throughout an National Championships. Starting with the dealer, players place the bidding cards on the table in front of them, from the left and neatly overlapping so that all calls are visible and faced towards partner; players should refrain from touching any bidding cards until they have determined their call. A call is considered to have been made when the bidding card(s) is removed from the bidding box with apparent intent (but Law 25 may apply and if a player’s mind was elsewhere as he makes an unintended call the ‘pause for thought’ should be assessed from the moment when he first recognises his error). Alerts should be made by the use of the alert card; it is the responsibility of the alerting player to ensure that his opponents are aware of the Alert. STOP card is NOT to be used. After a skip bid an opponent may pause as though the STOP card has been used. Until they are removed from the table, a player obtains a review of the auction by inspecting the bidding cards. When such inspection is not feasible a player may obtain a written review of the auction at his first turn to play to trick one. If a player whose pass will conclude the auction removes his bidding cards from the table he is deemed to have passed. If screens are in use the foregoing is modified - see Section 26.
+The use of bidding boxes is mandatory throughout all Singapore National Championships. Starting with the dealer, players place the bidding cards on the table in front of them, from the left and neatly overlapping so that all calls are visible and faced towards partner; players should refrain from touching any bidding cards until they have determined their call. A call is considered to have been made when the bidding card(s) is removed from the bidding box with apparent intent (but Law 25 may apply and if a player’s mind was elsewhere as he makes an unintended call the ‘pause for thought’ should be assessed from the moment when he first recognises his error). Alerts should be made by the use of the alert card; it is the responsibility of the alerting player to ensure that his opponents are aware of the Alert. STOP card is NOT to be used. After a skip bid an opponent may pause as though the STOP card has been used. Until they are removed from the table, a player obtains a review of the auction by inspecting the bidding cards. When such inspection is not feasible a player may obtain a written review of the auction at his first turn to play to trick one. If a player whose pass will conclude the auction removes his bidding cards from the table he is deemed to have passed. If screens are in use the foregoing is modified - see Section 26.
 
 ### 23.2 BridgeMates and other devices used for the recording of matches
-BridgeMate IIs are currently used for the official recording of the scores throughout the National Championships. This recording is the responsibility of the team sitting North/South at each table. The E/W pair will be responsible for agreeing the score by keying in their confirmation. The official score will be that keyed in by N/S and agreed by E/W. Players and Captains are reminded that they are responsible for the accuracy of their own scores. Repeated violation of correct entering procedures may be subject to penalties.
+BridgeMate IIs are currently used for the official recording of the scores throughout all Singapore National Championships. This recording is the responsibility of the team sitting North/South at each table. The E/W pair will be responsible for agreeing the score by keying in their confirmation. The official score will be that keyed in by N/S and agreed by E/W. Scores should be keyed in immediately at the end of each board. Players and Captains are reminded that they are responsible for the accuracy of their own scores. Repeated violation of correct entering procedures may be subject to penalties.
 
 ## 24. Verification of Scores
 The correction period in Law 79C expires upon the commencement of the next match or segment, or - in respect of the final match or segment of any phase of the event only - 30 minutes after the final result has been posted and thereafter, the results will be final, with the following exceptions:
@@ -279,7 +280,7 @@ During the course of play, each card should be played towards partner in a consi
 
 ## 26. Screen Regulations
 
-Screens will be used whenever possible in an National Championships.
+Screens will be used whenever possible in all National Championships.
 
 ### 26.1 Description of the Operation
 The North and East players sit on the same side of the screen throughout. It is North’s responsibility to place the board on, and to remove the board from, the bidding tray. The sequence is this: North places the board on the bidding tray after which the aperture is closed (and remains so during the entire auction period) so that the bidding tray can just pass under it. The players remove the cards from the board. Calls are made with the cards from the bidding box. The player places the selected call in the bidding tray, which will be visible only on the player’s side of the screen. A player’s first call should touch the extreme left of his own segment of the bidding tray, with subsequent calls overlapping neatly and evenly to the right. Players should make every effort to perform these actions as quietly as possible. With screens in use a call is considered ‘made’ when placed on the tray and released. A player who removes one or more of his bidding cards from the tray in an apparent attempt to "pass" is indeed deemed to have "passed". After two players on the same side of the screen have made their calls, North or South (as the case may be) slides the bidding tray under the centre of the screen so as to be visible only to the players on the other side. They then make their calls in like manner and the bidding tray is slid back again. Thisprocedure is continued until the auction is completed. It is considered desirable that players should vary the tempo randomly when returning the tray under the screen. After all four players have had the opportunity to review the auction (equivalent to the right of having the auction restated) the players replace their bidding cards in their respective bidding boxes. The bidding tray shall be removed from the table by a member of the declaring side. After a legal opening lead is faced, the screen aperture is opened the minimum necessary to permit all players to see the dummy cards and the cards played to each trick. If a defender exposes a card and, because of the screen, declarer does not see it, dummy may draw attention to the irregularity.
@@ -382,13 +383,13 @@ The interpretation of the Bridge Laws is a matter to be referred to the WBF Laws
 The interpretation of these Conditions of Contest or any Supplementary Conditions of Contest is a matter to be referred to the Executive Committee, and 2 other members appointed by the President. The President shall preside over this meeting and decisions reached shall be final.
 
 ## 34 Eligibility For Awards
-The SCBA will establish, for each National Championships, a scale of SCBA Master Points Awards in accordance with the SCBA Master Point Plan. Gold, Silver and Bronze Medals will normally be awarded for SCBA National Championships. In SCBA National Championships in all events, the highest-ranking team after the round robins will be awarded the Gold Medal and/or Trophy, the 2nd ranking team will be awarded the Silver Medal and/or Trophy, and the 3rd ranking team will be awarded the Bronze Medal and/or Trophy. In SCBA Congress in all team events, the winning team in the final will be awarded the Gold Medal and/or Trophy. The losing finalists will be awarded the Silver Medal. For the play off regulations to determine the Bronze Medallists, see Section 37. In all pair events, the winning pair shall be awarded the Gold Medal and/or Trophy or prize, the second placed pair shall be awarded the Silver Medal and the third placed pair the Bronze Medal.
+The SCBA will establish, for each Singapore National Championship, a scale of SCBA Master Points Awards in accordance with the SCBA Master Point Plan. Gold, Silver and Bronze Medals will normally be awarded for Singapore National Championships. all In Singapore National Championships, the highest-ranking team after the round robins will be awarded the Gold Medal and/or Trophy, the 2nd ranking team will be awarded the Silver Medal and/or Trophy, and the 3rd ranking team will be awarded the Bronze Medal and/or Trophy. In SCBA Congress in all team events, the winning team in the final will be awarded the Gold Medal and/or Trophy. The losing finalists will be awarded the Silver Medal. For the play off regulations to determine the Bronze Medallists, see Section 37. In all pair events, the winning pair shall be awarded the Gold Medal and/or Trophy or prize, the second placed pair shall be awarded the Silver Medal and the third placed pair the Bronze Medal.
 
 ## 36 Authority of the SCBA Executive Committee
 The SCBA Executive Committee reserves the authority to modify or supplement these Conditions of Contest and the Supplementary Conditions of Contest, at any time.
 
-## 37 Responsibility of the APBF
-The APBF schedules an National Championships to occur at a particular time and place. However, the APBF makes no warranty to any participating NBO, team, pair or person, that any particular National Championships will take place as scheduled and accepts no responsibility for any loss or expense should it not do so.
+## 37 Responsibility of SCBA
+SCBA schedules a National Championship to occur at a particular time and place. However, the SCBA makes no warranty to any participating club, team, pair or person, that any particular National Championship will take place as scheduled and accepts no responsibility for any loss or expense should it not do so.
 
 ## 38 Appendix 1 : WBF Systems Policy and APBF Adoption
 Players should ensure that they obtain the latest version of any WBF Policies, which will be available on the WBF Website (www.worldbridge.org) or from the contact listed in Section 44.
@@ -417,18 +418,6 @@ Applications for Therapeutic Exemption should be made, using the specified form,
 Fax: +44 1787 881339; email wbf@ecats.co.uk, t_ o arrive no later than 21 days before the Championship event in which the Competitor is playing commences.
 
 ## 44.1 Official Websites																	 
-
-APBF Website: [http://www.pabf.org](http://www.pabf.org)
-Australia Website: [http://www.abf.com.au](http://www.abf.com.au)
-China Website: [http://www.ccba.org.cn](http://www.ccba.org.cn)
-China Hong Kong Website: [http://www.hkcba.org](http://www.hkcba.org)
-Chinese Taipei Website: [http://www.ctcba.org.tw](http://www.ctcba.org.tw)
-French Polynesia: [http://www.bridge.pf](http://www.bridge.pf)
-Indonesia Website: [http://www.gabsi.or.id](http://www.gabsi.or.id)
-Japan Website: [http://www.jcbl.or.jp](http://www.jcbl.or.jp)
-Korea Website: [http://www.kcbl.org](http://www.kcbl.org)
-Malaysia Website: [http://www.mcba.org.my](http://www.mcba.org.my)
-New Zealand Website: [http://www.nzbridge.co.nz](http://www.nzbridge.co.nz)
-Philippines Website: [http://www.bridge.org.ph](http://www.bridge.org.ph)
-Singapore Website: [http://www.scba.org.sg](http://www.scba.org.sg)
-Thailand Website: [http://www.thailandbridgeleague.com](http://www.thailandbridgeleague.com)						 
+* WBF Website: [http://www.worldbridge.org](http://www.worldbridge.org)
+* APBF Website: [http://www.pabf.org](http://www.pabf.org)
+* SCBA Website: [http://www.scba.org.sg](http://www.scba.org.sg)
