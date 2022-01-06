@@ -298,6 +298,7 @@ a) An irregularity passed through the screen is subject to the normal laws, with
 	i) an inadmissible call - see Law 35 - must be corrected.
 	
 	ii) if a player infringes the law and, inadvertently (otherwise Law 23 mayapply), the irregularity is passed through the screen by his screen mate the latter has accepted the action on behalf of his side in situations where the laws permit LHO to accept it.
+	
 b) Before an irregularity is passed through the screen the offender or his screen mate shall draw the Director’s attention to it. Infringing calls shall not be accepted and shall be put right without other rectification (but see (a)(ii) above); any other irregularity shall be rectified and the Director ensures that only the legal auction is passed through the screen. No player on the other side of the screen shall be informed of the occurrence unless the application of a law requires it.
 
 c) The screen mate should attempt to prevent an opening lead out of turn. Any opening lead out of turn shall be withdrawn without other rectification if the screen has not been opened. Otherwise:
