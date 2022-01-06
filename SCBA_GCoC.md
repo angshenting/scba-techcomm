@@ -293,23 +293,23 @@ b) At any time during the Auction a player may request of his screen mate, in wr
 c) At all times from the commencement of the Auction to the completion of play each player receives information only from his screen mate about the meanings of calls and explanations given. Questions during the play period should be in writing with the aperture closed. The screen is raised after the response has been made. Therefore the tournament director cannot make enquiries on a player’s behalf on the other side of the screen during the auction or play.
 
 ## 26.3 Modifications of Laws when Screens are in Use
-a) An irregularity passed through the screen is subject to the normal laws, with the following provisions;
+a) An irregularity passed through the screen is subject to the normal laws, with the following provisions:
 
-	i) an inadmissible call - see Law 35 - must be corrected.
+&ensp; i) an inadmissible call - see Law 35 - must be corrected.
 	
-	ii) if a player infringes the law and, inadvertently (otherwise Law 23 mayapply), the irregularity is passed through the screen by his screen mate the latter has accepted the action on behalf of his side in situations where the laws permit LHO to accept it.
+&ensp; ii) if a player infringes the law and, inadvertently (otherwise Law 23 mayapply), the irregularity is passed through the screen by his screen mate the latter has accepted the action on behalf of his side in situations where the laws permit LHO to accept it.
 	
 b) Before an irregularity is passed through the screen the offender or his screen mate shall draw the Director’s attention to it. Infringing calls shall not be accepted and shall be put right without other rectification (but see (a)(ii) above); any other irregularity shall be rectified and the Director ensures that only the legal auction is passed through the screen. No player on the other side of the screen shall be informed of the occurrence unless the application of a law requires it.
 
-c) The screen mate should attempt to prevent an opening lead out of turn. Any opening lead out of turn shall be withdrawn without other rectification if the screen has not been opened. Otherwise;
+c) The screen mate should attempt to prevent an opening lead out of turn. Any opening lead out of turn shall be withdrawn without other rectification if the screen has not been opened. Otherwise:
 
-	i) when the screen has been opened through no fault of the declaring side (and the other defender has not led face up) Law 54 applies. 
+&ensp; i) when the screen has been opened through no fault of the declaring side (and the other defender has not led face up) Law 54 applies. 
 	
-	ii) when the declaring side has opened the screen the lead is accepted. The presumed declarer becomes the actual declarer, Law 23 may apply.
+&ensp; ii) when the declaring side has opened the screen the lead is accepted. The presumed declarer becomes the actual declarer, Law 23 may apply.
 	
-	iii) when two opening leads are faced by the defending side the incorrect lead is a major penalty card.
+&ensp; iii) when two opening leads are faced by the defending side the incorrect lead is a major penalty card.
 	
-	iv) for a card faced by the declaring side see Law 48.
+&ensp; iv) for a card faced by the declaring side see Law 48.
 	
 d) When an alertable call is made see 26.2 above.
 
